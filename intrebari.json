@@ -1,0 +1,32 @@
+{
+   "intrebari": [
+        {
+            "intrebare":"1.Managementul capitalului uman este:",
+            "var_A": "definit ca o abordare strategica si coerenta a modului in care sunt gestionate cele mai pretuite active ale unei organizatii: oamenii care muncesc in organizatie",
+            "var_B": "preocupat de obtinerea, prelucrarea si raportarea datelor care stau la baza elaborarii unor decizii degeneratoare de valoare in domeniul managementului oamenilor",
+            "var_C":"preocupat de cresterea competentelor si abilitatilor managerilor de resurse umane, mai ales in sectoare care necesita investitii semnificative de capital si tehnologii de varf",
+            "var_corecta": "B"
+        },
+        {
+            "intrebare":"2.Managementul capitalului trateaza oamenii din organizatie ca:",
+            "var_A": "active",
+            "var_B": "costuri",
+            "var_C":"active si pasive",
+            "var_corecta": "A"
+        },
+        {
+            "intrebare":"3.Conceptul de capital uman se refera la:",
+            "var_A": "faptul ca oamenii genereaza cunostinte institutionalizate, pe baza interactiunilor care se afla in posesia unei organizatii",
+            "var_B": "faptul ca oamenii imbogatesc cunostintele in cursul interactiunilor",
+            "var_C":"faptul ca oamenii genereaza, pastreaza si folosesc cunostinte si aptitudini",
+            "var_corecta": "C"
+        },
+        {
+            "intrebare":"",
+            "var_A": "",
+            "var_B": "",
+            "var_C":"",
+            "var_corecta": ""
+        }
+    ]
+}
