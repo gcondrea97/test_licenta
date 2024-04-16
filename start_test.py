@@ -41,7 +41,7 @@ def start_test():
 
         print(f"{bcolors.HEADER}{bcolors.BOLD}{intrebare['intrebare']}{bcolors.ENDC}\n")
         print(f"\tA - {intrebare['var_A']}\n")
-        print(f"\tB - {intrebare['var_C']}\n")
+        print(f"\tB - {intrebare['var_B']}\n")
         print(f"\tC - {intrebare['var_C']}\n")
 
         raspuns = input(f'{bcolors.OKBLUE}RASPUNS(A/B/C){bcolors.ENDC}: ')
