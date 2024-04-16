@@ -1,753 +1,1495 @@
 {
-    "intrebari": [
-        {
-            "intrebare": "1.Managementul capitalului uman este:",
-            "var_A": "definit ca o abordare strategica si coerenta a modului in care sunt gestionate cele mai pretuite active ale unei organizatii: oamenii care muncesc in organizatie",
-            "var_B": "preocupat de obtinerea, prelucrarea si raportarea datelor care stau la baza elaborarii unor decizii generatoare de valoare in domeniul managementului oamenilor",
-            "var_C": "preocupat de cresterea competentelor si abilitatilor managerilor de resurse umane, mai ales in sectoare care necesita investitii semnificative de capital si tehnologii de varf",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "2.Managementul capitalului trateaza oamenii din organizatie ca:",
-            "var_A": "active",
-            "var_B": "costuri",
-            "var_C": "active si pasive",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "3.Conceptul de capital uman se refera la:",
-            "var_A": "faptul ca oamenii genereaza cunostinte institutionalizate, pe baza interactiunilor care se afla in posesia unei organizatii",
-            "var_B": "faptul ca oamenii imbogatesc cunostintele in cursul interactiunilor",
-            "var_C": "faptul ca oamenii genereaza, pastreaza si folosesc cunostinte si aptitudini",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "4.Modelul creat de Fundatia Europeana pentru Managementul Calitatii (EFQM) pentru evaluarea si masurarea din managementul capitalului uman cuprinde urmatoarele elemente:",
-            "var_A": "perspectiva clientilor, perspectiva financiara, perspectiva interna, perspectiva inovarii si invatarii",
-            "var_B": "leadershipul, politicile si strategiile, managementul oamenilor, resursele, procesele, satisfactia clientilor, satisfactia propriilor oameni, impactul asupra societatii, rezultatele economice",
-            "var_C": "atitudinea fata de post, atitudinea fata de munca, serviabilitatea, pastrarea angajatilor, valoarea pe piata a ofertei companiei, recomandarea companiei de catre clienti, pastrarea clientilor, investitii cu randament bun",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "5.Managementul international al resurselor umane implica:",
-            "var_A": "managementul expatriatilor - adica al persoanelor detasate in tara-gazda",
-            "var_B": "managementul tuturor angajatilor, atat din tara de origine, cat si din tara gazda",
-            "var_C": "managementul angajatilor imigranti si emigranti",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "6.O firma multinationala este:",
-            "var_A": "o firma ale carei optiuni se desfasoara in mai multe entitati subordonate - filiale - aflate in alte tari decat in cea de origine, folosind competente profesionale si de afaceri, sau capacitati de productie, ale firmei-mama",
-            "var_B": "o firma care furnizeaza produse sau servicii optimizate si standardizate in asa fel incat productia sau furnizarea lor la nivel local sa se realizeze in mod cat mai rentabil sub aspectul costurilor",
-            "var_C": "o firma care este compusa din mai multe entitati de afaceri, cu diferite grade de autonomie, aflate in diferite tari si gestionate de la centru ca si cum ar fi un tot unitar",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "7.Conform Bartlett si Goshal (1993), modelul organizational de tip 'federatie coordonata'",
-            "var_A": "fiecare unitate nationala este administrata ca entitate separata ce cauta sa-si optimizeze performanta la nivel local (modelul traditional al corporatiei multinationale)",
-            "var_B": "centrul creeaza sisteme sofisticate de management care ii permit sa pastreze controlul global, chiar daca i se ofera conducerii manageriale locale libertatea de a adopta practici care sa tina cont de conditiile pietei locale",
-            "var_C": "corporatia isi dezvolta capabilitati strategice multidimensionale directionate spre concurenta globala, dar manifesta si receptivitate locala la cerintele pietei",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "8.Brewster (2004) considera ca in cazul firmelor internationale europene politicile de resurse umane sunt mai curand:",
-            "var_A": "divergente (politicile sunt diferentiate in functie de cerintele locale)",
-            "var_B": "convergente (politicile sunt in principal aceleasi, indiferent de localizare)",
-            "var_C": "convexe (politicile sunt externalizate)",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "9.Politicile de resurse umane se refera la:",
-            "var_A": "modalitatile de recrutare si selectie a personalului",
-            "var_B": "formularea explicita si precisa a actiunilor care trebuie intreprinse",
-            "var_C": "directia normativa generala a abordarii adoptate de organizatie in privinta diverselor aspecte ale raporturilor de munca",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "10.Politica generala de resurse umane defineste modul in care organizatia isi indeplineste rolurile fata de angajati si stabileste atitudinile fata de angajati. Politica generala se poate referi la:",
-            "var_A": "echitate, consideratie, invatare organizationala, performante organizationale prin oameni, echilibrul viata-munca, calitatea vietii profesionale, conditiile de munca",
-            "var_B": "egalitatea sanselor, gestionarea diversitatii, varsta angajatilor, promovarea, echilibrul dintre viata profesionala si cea personala, dezvoltarea angajatilor, recompensarea, implicarea si participarea, relatiile cu angajatii, introducerea de noi tehnologii, protectia muncii si sanatatii, disciplina, nemultumirile si plangerile angajatilor, disponibilizarea, hartuirea sexuala, hartuirea prin intimidare, abuzul de substante, comunicarea prin mijloace electronice",
-            "var_C": "modalitati generale de recrutare, selectie si dezvoltare a personalului",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "11.Politicile specifice de resurse umane acopera urmatoarele domenii:",
-            "var_A": "echitatea, consideratia, invatarea organizationala, performantele organizationale prin oameni, echilibrul viata-munca, calitatea vietii profesionale, conditiile de munca",
-            "var_B": "egalitatea sanselor, gestionarea diversitatii, varsta angajatilor, promovarea, achilibrul dintre viata profesionala si cea personala, dezvoltarea angajatilor, recompensarea, implicarea si participarea, relatiile cu angajatii, introducerea de noi tehnologii, protectia muncii si sanatatii, disciplina, nemultumirile si plangerile angajatilor, disponibilizarea, hartuirea sexuala, hartuirea prin intimidare, abuzul de substante, comunicarea prin mijloace electronice",
-            "var_C": "modalitatile specifice de recrutare, selectie si dezvoltare a personalului",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "12.Competentele comportamentale definesc:",
-            "var_A": "asteptarile comportamentale la adresa angajatului, adica tipul de comportament necesar pentru obtinerea rezultatelor in munca (competente soft: subiective sau relationale)",
-            "var_B": "ce trebuie sa stie si sa poata sa faca angajatul pentru a-si exercita cu eficacitate rolurile (competente hard: concrete, tehnice)",
-            "var_C": "capacitatea de a recunoaste propriile sentimente si pe ale celor din jur si de automotivare",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "13.Competentele tehnice definesc:",
-            "var_A": "asteptarile comportamentale la adresa angajatului, adica tipul de comportament necesar pentru obtinerea rezultatelor in munca (competente soft: subiective sau relationale)",
-            "var_B": "ce trebuie sa stie si sa poata sa faca angajatul pentru a-si exercita cu eficacitate rolurile (competente hard: concrete, tehnice)",
-            "var_C": "capacitatea de a masura relatiile intraorganizationale",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "14.Conform Goleman (1995), componentele inteligentei emotionale sunt:",
-            "var_A": "gestionarea propriilor emotii, gestionarea emotiilor celor din jur, comportamentul prosocial",
-            "var_B": "gestionarea propriilor emotii, gestionarea relatiilor cu managementul, gestionarea relatiilor cu angajatii, leadership",
-            "var_C": "gestionarea propriilor emotii, constiinta propriului eu, discernamantul social, aptitudinea sociala",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "15.Managementul cunostintelor presupune:",
-            "var_A": "identificarea resurselor de cunoastere prin identificarea informatiilor relevante",
-            "var_B": "transformarea resurselor de cunoastere prin identificarea informatiilor relevante si difuzarea lor in asa fel incat sa poata avea loc invatarea",
-            "var_C": "invatarea continua",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "16.Cunoasterea explicita:",
-            "var_A": "este inregistrata, disponibila si pastrata in baze de date sau portofolii de proprietate intelectuala",
-            "var_B": "exista in mintile oamenilor, fiind dificil de exprimat in scris si se dobandeste prin experienta personala",
-            "var_C": "este suma cunostintelor specifice acumulate de-a lungul studiilor de specialitate de catre fiecare angajat in parte",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "17.Strategia codificarii, ca abordare a managementului cunostintelor, inseamna ca:",
-            "var_A": "cunostintele sunt atent codificate si stocate in baze de date unde pot fi consultate si utilizate cu usurinta de oricine din organizatie",
-            "var_B": "cunostintele sunt indisolubil legate de persoana care le-a creat si se transmit aproape numai prin contact personal direct",
-            "var_C": "cunostintele sunt atent codificate de persoana care le-a creat si decodificate cu usurinta de managementul orhganizatiei",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "18.Analiza rolului:",
-            "var_A": "este un proces prin care se stabileste care sunt asteptarile cu privire la rezultatele obtinute de angajati in munca lor, precum si competentele si aptitudinile necesare pentru indeplinirea acelor asteptari",
-            "var_B": "recurge la analiza functionala in vederea determinarii dimensiunilor comportamentale care influenteaza performanta pe post in vederea definirii cadrelor de competenta",
-            "var_C": "determina aptitudinile necesare pentru a atinge un standard acceptabil de performanta. Se foloseste in principal pentru posturile tehnice si de munca manuala si administrativa, oferind o baza pentru conceperea programelor de invatare si instruire",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "19.Analiza competentei:",
-            "var_A": "este un proces prin care se stabileste care sunt asteptarile cu privire la rezultatele obtinute de angajati in munca lor, precum si competentele si aptitudinile necesare pentru indeplinirea acelor asteptari",
-            "var_B": "recurge la analiza functionala in vederea determinarii dimensiunilor comportamentale care influenteaza performanta pe post in vederea definirii cadrelor de competenta",
-            "var_C": "determina aptitudinile necesare pentru a atinge un standard acceptabil de performanta. Se foloseste in principal pentru posturile tehnice si de munca manuala si administrativa, oferind o baza pentru conceperea proghramelor de invatare si instruire",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "20.Analiza aptitudinilor:",
-            "var_A": "este un proces prin care se stabileste care sunt asteptarile cu privire la rezultatele obtinute de angajati in munca lor, precum si competentele si aptitudinile necesare pentru indeplinirea acelor asteptari",
-            "var_B": "recurge la analiza functionala in vederea determinarii dimensiunilor comportamentale care influenteaza performanta pe post in vederea definirii cadrelor de competenta",
-            "var_C": "determina aptitudinile necesare pentru a atinge un standard acceptabil de performanta. Se foloseste in principal pentru posturile tehnice si de munca manuala si administrativa, oferind o baza pentru conceperea programelor de invatare si instruire.",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "21.Teoria mandatarii (a muncii ca factor de productie) inseamna ca:",
-            "var_A": "surplusul se insuseste prin remunerarea fortei de munca cu mai putin decat valoarea adaugata de aceasta procesului de munca",
-            "var_B": "patronii si managerii trebuie sa conceapa moduri prin care sa urmareasca si sa controleze activitatile angajatilor",
-            "var_C": "se urmareste cresterea angajamentului asumat de angajati fata de organizatie",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "22.Conceptul functionarii cu costuri minime (organizarea 'economicoasa') a organizatiilor urmareste identificarea unor metode mai economice de munca. Care dintre metodele de mai jos pot fi considerate abordari negative?",
-            "var_A": "reducerea efectivului de angajati (restructurarea prin restrangere)",
-            "var_B": "organizarea muncii pe baza de echipe",
-            "var_C": "practici de imputernicire a personalului si de dezvoltare a problemelor",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "23.Aplatizarea structurii organizatorice inseamna:",
-            "var_A": "reducerea numarului de angajati",
-            "var_B": "reducerea numarului de niveluri manageriale si de supervizare",
-            "var_C": "reducerea numarului de furnizori de servicii conexe",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "24.'Partile' implicate in relatia de munca sunt:",
-            "var_A": "regulile/procedurile formale, parerile si asteptarile informale",
-            "var_B": "nivelul, procesul, stilul",
-            "var_C": "managerii, angajatii, reprezentantii angajatilor",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "25.Contractele de munca relationale:",
-            "var_A": "au conditii ale schimbului intre parti bine definite, de regula exprimate in termeni financiari; au o durata limitata si cerinte specifice in materie de performanta",
-            "var_B": "sunt mai putin precis definite si se refera la o calitate negociabila de membru al organizatiei; cerintele de performanta aferente calitatii neintrerupte de membru al organizatiei sunt incomplete sau ambiguu formulate",
-            "var_C": "sumarizeaza convingerile pe care le au un angajat si angajatorul sau in raport cu ce asteapta fiecare de la celalalt",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "26.Contractele de munca care au conditii intre parti bine definite, de regula exprimate in termeni financiari, care au o durata limitata si cerinte specifice in materie de performanta se numesc:",
-            "var_A": "contracte tranzactionale",
-            "var_B": "contracte relationale",
-            "var_C": "contracte psihologice",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "27.Relatia de munca care exprima combinatia de convingeri pe care le adopta un individ si angajatorul lui in privinta a ceea ce asteapta fiecare de la celalalt se numeste: ",
-            "var_A": "contract tranzactional",
-            "var_B": "contract relational",
-            "var_C": "contract psihologic",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "28.Contractul de munca psihologic este:",
-            "var_A": "un contract formal",
-            "var_B": "o metafora",
-            "var_C": "poate fi aplicat prin sentinta judecatoreasca",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "29.In modelul contractului psihologic propus de Guest, Conway, Briner si Dickman (1996), continutul se refera la:",
-            "var_A": "cultura organizationala, politica si practica de MRU, experienta, asteptarile; alternativele",
-            "var_B": "corectitudine/impartialitate, incredere, respectarea intelegerii",
-            "var_C": "conduita sociala, angajament organizational, motivatie, satisfactie",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "30.Cele cinci mari trasaturi de personalitate, asa cum au fost definite de Deary si Matthews (1993), sunt:",
-            "var_A": "constiinciozitatea, caracterul nevrotic, caracterul agreabil, caracterul extravertit, sinceritatea",
-            "var_B": "nevrozitatea, calmul, sinceritatea, constiinta, nerabdarea",
-            "var_C": "caracterul introvertit, puterea de concentrare, amabilitatea, inteligenta, rezistenta la stres",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "31.Factorii care influenteaza modul cum se comporta oamenii in mediul de munca sunt:",
-            "var_A": "statusurile, pozitiile ocupate, nivelurile de educatie, modurile in care au fost socializati, locurile de munca anterioare",
-            "var_B": "pozitiile ocupate anterior, aspiratiile, posibilitatile de avansare, nivelurile de salarizare, beneficiile non-financiare",
-            "var_C": "rolurile, orientarea, teoria atribuirii, influentele asupra comportamentului, atitudinile, diferentele individuale",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "32.Categoriile specifice in cadrul carora pot sa varieze caracteristicile personale au fost clasificate de Mischel (1968) dupa cum urmeaza",
-            "var_A": "cunostintele, abilitatile, caracterul, inteligenta, amabilitatea",
-            "var_B": "caracterul introvertit, puterea de concentrare, amabilitatea, inteligenta, rezistenta la stres",
-            "var_C": "competentele, notiunile conceptuale, asteptarile, vslorile, planurile autoimpuse",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "33.Kelley (1967) este de parere ca exista patru criterii pe care le aplicam pentru a decide daca un comportament poate fi atribuit mai degraba unor cauze personale decat unor cauze exterioare (situationale). Acestea sunt:",
-            "var_A": "nivelul de educatie, caracteristicile de personalitate, mediul de provenienta, nivelul de specializare",
-            "var_B": "consecventa in modalitate, consecventa in timp, consensul, caracterul distinctiv",
-            "var_C": "relatiile personale, relatiile profesionale, nivelul de educatie, circumstantele exterioare",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "34.Conflictul de rol rezulta atunci cand, desi rolurile sunt clar definite si nu exista incompatibilitate intre asteptari:",
-            "var_A": "apar confliocte intre angajati",
-            "var_B": "individul trebuie sa joace doua roluri antagoniste",
-            "var_C": "angajatii cu roluri diferite ajung, totusi, la conflicte",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "35.Asa cum e definit de Porter et al. (1974), angajamentul se refera la atasament si loialitate si depinde de taria cu care se identifica individul cu organizatia sa sau de intensitatea implicarii sale in activitatea acesteia. Angajamentul cuprinde trei laturi:",
-            "var_A": "asumarea valorilor si convingerilor organizatiei; respectarea tuturor sarcinilor primite de la superiori; dorinta de a depune efort in folosul organizatiei in functie de nevoile acesteia, chiar daca acesta este diferit de fisa postului sau depaseste programul normal de lucru",
-            "var_B": "dorinta puternica de a-si pastra calitatea de membru al organizatiei; acceptarea si respectarea fara rezerve a valorilor si telurilor organizatiei; vointa de a depune un efort considerabil in slujba organizatiei",
-            "var_C": "loialitate fata de colegi si superiori; implicare deplina in interesul organizatiei; lipsa dorintei de a parasi organizatia",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "36.Principiile directoare ale firmelor caracterizate prin angajament reciproc asumat se pot regasi la:",
-            "var_A": "nivelul managementului, nivelul departamentului de resurse umane sau la nivelul angajatilor obisnuiti",
-            "var_B": "nivel strategic, nivel functional sau nivelul locului de munca",
-            "var_C": "nivel teoretic, nivel practic, nivel strategic",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "37.Nivelul de angajament al oamenilor si satisfactia lor in munca sunt influentate de:",
-            "var_A": "leadership, management, nivel de salarizare, beneficii extrasalariale, flexibilitatea programului",
-            "var_B": "permisivitatea managerilor, nivelul de salarizare, relatiile cu colegii, relatiile cu sefii, nivelul bonusurilor",
-            "var_C": "recunoasterea contributiei, leadershipul: vizibilitatea liderului si increderea in acesta, calitatea managementului de linie, relatia cu managerul, relatia cu colegii",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "38.Cultura organizationala poate fi descrisa in termenii:",
-            "var_A": "istoriei, obiceiurilor si stilului de conducere",
-            "var_B": "de pozitiva, negativa, dezvoltata sau mai putin dezvoltata",
-            "var_C": "valorilor, normelor, artefactelor si stilurilor manageriale si de leadership",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "39.Liderii pot fi clasificati in functie de urmatoarele dimensiuni: ",
-            "var_A": "carismatic/non-carismatic, dominator/democratic, facilitare/control, tranzactional/transformational",
-            "var_B": "autoritar/laissez-faire, traditional/progresist, formal/non-formal, autocratic/democratic ",
-            "var_C": "carismatic/non-carismatic, autocratic/democratic, tranzactional/transformational, traditional/progresist",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "40.Care sunt cele 4 dimensiuni definitorii ale culturii organizationale, conform lui Williams, Dobson si Walters (1989)?",
-            "var_A": "cultura puterii, cultura conducerii, cultura mediului inconjurator, cultura generala",
-            "var_B": "orientarea spre oameni, orientarea spre sarcina, orientarea spre rol, orientarea spre putere",
-            "var_C": "orientarea spre scopuri, orientarea spre profit, orientarea spre oameni, orientarea spre mediul de afaceri",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "41.Conform lui Williams, Dobson si Walters (1989), orientarea spre putere inseamna ca:",
-            "var_A": "cei care au putere legitima au mai multe sanse de a avansa in cadrul organizatiei",
-            "var_B": "organizatiile incearca sa-si domine mediul si cei care exercita puterea se straduiesc sa pastreze un control absolut asupra subordonatilor",
-            "var_C": "cei care au putere informala primesc din partea organizatiei si functii de conducere, pentru a detine in acest mod si putere formala",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "42.Conform lui Williams, Dobson si Walters (1989), orientarea spre rol inseamna ca:",
-            "var_A": "organizatia pune accentul pe modul in care angajatii isi duc rolurile la indeplinire, indiferent de rezultatele obtinute",
-            "var_B": "organizatia pune accentul pe rol, ierarhia si statusul nefiind atat de importante",
-            "var_C": "organizatia pune accentul pe legalitate, legitimitate si responsabilitate. Ierarhia si statusul sunt importante",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "43.Managementul talentului inseamna:",
-            "var_A": "un set integrat de activitati menite sa-i asigure organizatiei capacitatea de a atrage, pastra, motiva si perfectiona oamenii talentati de care are nevoie in prezent si in viitor",
-            "var_B": "un set integrat de activitati menite sa atraga, sa mentina si sa dezvolte oameni talentati in organizatie",
-            "var_C": "un set integrat de activitati menite sa ajute oamenii talentati sa fie mai organizati",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "44.Scopul managementului talentului este:",
-            "var_A": "sa realizeze in organizatie fluxul optim de talent, tinand cont ca talentul este o resursa corporativa esentiala",
-            "var_B": "sa gaseasca si sa aduca in organizatie cei mai talentati oameni",
-            "var_C": "sa ajute angajatii sa isi gaseasca si sa isi dezvolte talentele",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "45.Auditul talentului este procesul prin care:",
-            "var_A": "se identifica angajatii cu potential si se creeaza baza pentru planificarea si dezvoltarea carierei, asigurandu-li-se o succesiune de oportunitati de imbogatire a experientei, urmate de programe de coaching si studiu menite sa-i faca apti pentru indeplinirea unor roluri viitoare mai complexe si mai solicitante",
-            "var_B": "angajatii sunt testati in vederea identificarii talentelor fiecaruia, astfel incat acestia sa poata fi alocati unor echipe mai potrivite",
-            "var_C": "se identifica angajatii talentati si cei netalentati, dupa care se realizeaza atat ajustari pe post, cat si ajustari salariale",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "46.Planificarea carierei:",
-            "var_A": "reprezinta procesul prin care un angajat isi planifica parcursul profesional in cadrul organizatiei",
-            "var_B": "descrie modul in care departamentul de resurse umane stabileste, la angajare, traiectoria in cariera a noului angajat",
-            "var_C": "descrie modul cum va avansa angajatul in cadrul organizatiei in functie de nevoile pe care si le defineste acesta, de profilul de succes al angajatului, de performantele obtinute de angajat, de potentialul si preferintele sale",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "47.Plasarea in alte locuri de munca este procesul prin care:",
-            "var_A": "sunt ajutati angajatii disponibilizati sa-si gaseasca alta slujba sau sa-si inceapa alta cariera",
-            "var_B": "angajatii sunt mutati pe alte pozitii, in functie de nevoile organizatiei",
-            "var_C": "angajatii sunt plasati pe piata fortei de munca de catre agentiile de recrutare",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "48.Procedura de disponibilizare trebuie sa aiba in vedere urmatoarele obiective:",
-            "var_A": "sa ajute angajatii disponibilizati sa-si gaseasca alta slujba sau sa-si inceapa alta cariera, sa plaseze fostii angajati pe piata fortei de munca, sa faciliteze legatura intre fostii angajati si agentiile de recrutare",
-            "var_B": "sa atenueze pe cat posibil greaua lovitura; sa protejeze capacitatea conducerii manageriale de a gestiona cu eficacitate activitatea organizatiei; sa-i trateze pe angajati cat mai corect si impartial posibil.",
-            "var_C": "sa gaseasca un inlocuitor potrivit inainte de disponibilizarea unui angajat; sa anunte din timp angajatul ca va fi disponibilizat",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "49.Elementele esentiale ale dezvoltarii resurselor umane sunt:",
-            "var_A": "dezvoltarea, progresul, remunerarea corecta, retentia",
-            "var_B": "dezvoltarea, educatia, invatarea, instruirea",
-            "var_C": "dezvoltarea, recrutarea, consilierea, mentoratul",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "50.Strategia de dezvoltare a resurselor umane bazata pe centralizare inseamna ca:",
-            "var_A": "toate activitatile specifice dezvoltarii resurselor umane sunt coordonate de un departament de resurse umane aflat in sediul central al organizatiei",
-            "var_B": "toate activitatile de consiliere, mentorat, planificare a carierei sunt conduse si controlate de la centru",
-            "var_C": "toate activitatile de invatare si dezvoltare sunt conduse si controlate de la centru",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "51.Obiectivele specifice ale dezvoltarii resurselor umane strategice sunt:",
-            "var_A": "dezvoltarea resursei umane din cadrul organizatie printr-o diversitate de metode si strategii de invatare",
-            "var_B": "dezvoltarea capitalului uman si a organizatiei prin activitati de socializare si teambuildinguri",
-            "var_C": "dezvoltarea capitalului intelectual si promovarea invatarii organizationale, in echipa si individual, prin crearea unei culturi a invatarii",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "52.Cele 4 niveluri de evaluare a instruirii sunt:",
-            "var_A": "1. Reactia; 2. Evaluarea invatarii; 3. Evaluarea comportamentului; 4. Evaluarea rezultatelor",
-            "var_B": "1. Evaluarea nevoii de instruire; 2. Evaluarea metodologiei de instruire; 3. Evaluarea instructorilor; 4. Evaluarea cunostintelor obtinute",
-            "var_C": "1. Evaluarea nevoilor de instruire; 2. Evaluarea inainte de instruire; 3. Evaluarea imediat dupa finalizarea instruirii; 4. Evaluarea la 6 luni de la finalizarea instruirii",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "53. La al doilea nivel de evaluare a instruirii, evaluarea invatarii, se obtin informatii cu privire la:",
-            "var_A": "gradul in care lucrurile invatate sunt aplicate",
-            "var_B": "gradul in care au fost atinse obiectivele invatate",
-            "var_C": "gradul in care participantii la invatare sunt multumiti de modul in care li se preda",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "54.Obiectivul celui de-al patrulea nivel de evaluare a instruirii, evaluarea rezultatelor este:",
-            "var_A": "valoarea adaugata generata de program",
-            "var_B": "aflarea cantitatii de informatii acumulate de participantii la procesul de instruire",
-            "var_C": "aflarea rezultatelor pe termen mediu si lung ale programului de instruire",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "55.Teoria managementului prin 'comunicare eficienta'se bazeaza pe cel putin una dintre urmatoarele premise:",
-            "var_A": "necesitatile si telurile angajatilor si ale conducerii sunt aceleasi in oricare organizatie. Ideile si obiectivele managerilor si ale angajatilor pot fi reunite in mod adecvat pentru a forma un cadru conceptual unic",
-            "var_B": "diferentele de opinii intre conducere si angajati se datoreaza comunicarii externe",
-            "var_C": "conflictele de munca pot fi solutionate prin reducerea volumului informatiilor comunicate",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "56.Comunicarea descendenta si laterala a obiectivelor generale sau functionale, a politicilor, planurilor si bugetelor celor care au sarcina sa le execute; comunicarea descendenta a instructiunilor directe de la manager la subordonat privind sarcinile de lucru; comunicarea ascendenta si laterala a propunerilor, sugestiilor si comentariilor privind obiectivele generale sau functionale, politicile si bugetele de la cei care trebuie sa le execute; comunicarea ascendenta si laterala a datelor referitoare la performanta si la rezultate sunt circumscrise zonei de comunicare:",
-            "var_A": "manageriale",
-            "var_B": "relatii interne",
-            "var_C": "relatii externe",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "57.Comunicarea descendenta de informatii privind planurile, politicile sau performanta companiei sunt circumscrise zonei de comunicare:",
-            "var_A": "manageriale",
-            "var_B": "relatii interne",
-            "var_C": "relatii externe",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "58.Primirea si analiza informatiilor din afara companiei, care ii afecteaza interesele; prezentarea de informatii despre companie si produsele sale institutiilor guvernamentale, clientilor si publicului general sunt circumscrise zonei de comunicare:",
-            "var_A": "manageriale",
-            "var_B": "relatii interne",
-            "var_C": "relatii externe",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "59.In cadrul unei organizatii, serviciile sociale pot fi:",
-            "var_A": "servicii de grup, servicii individualizate si servicii generale",
-            "var_B": "servicii colective si servicii individuale sau personale",
-            "var_C": "cantina, cresa, rampe/lifturi/signalistica pentru persoane cu dizabilitati, consiliere pentru un bun echilibru serviciu/familie",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "60.Cauzele pentru care oamenii absenteaza de la munca pot fi grupate in urmatoarele categorii:",
-            "var_A": "probleme personale, probleme medicale, lipsa interesului fata de munca, probleme neprevazute",
-            "var_B": "cauze familiale, cauze personale, cauze climatice, cauze medicale",
-            "var_C": "factori organizatorici, factori specifici postului, factori de ordin personal",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "61.Practicile organizatiei privind echilibrul munca-viata presupun:",
-            "var_A": "creearea unor conditii care sa-i sustina pe angajati sa aiba un echilibru intre timpul pentrecut la birou si timpul petrecut cu familia",
-            "var_B": "creearea unor conditii care sa-i sustina pe angajati sa aiba o viata in afara locului de munca",
-            "var_C": "creearea unor conditii care sa-i ajute pe angajati sa-si reconcilieze obligatiile profesionale cu raspunderile si interesele lor din afara ei, indeplinind astfel si obiectivele angajatorului, si pe cele personale",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "62.Beneficiile aduse de implementarea unor prolitici privind echilibrul munca-viata sunt:",
-            "var_A": "imbunatatirea echilibrului psihic al angajatilor, cresterea gradului de atasament al angajatilor fata de organizatie, atragerea unor angajati mai interesati de viata familiala, cresterea numarului de copii in randul angajatilor",
-            "var_B": "imbunatatirea randamentului noilor angajati, scaderea numarului de absente nemotivate, scaderea fluctuatiei de personal, imbunatatoirea angajamentului si moralului, cresterea productivitatii si calitatii muncii",
-            "var_C": "imbunatatirea relatiilor familiale ale angajatilor, imbunatatirea relatiilor de serviciu ale angajatilor, cresterea satisfactiei muncii, cresterea numarului de zile de concediu",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "63.Conform lui Kettley si Reilly (2003), un sistem informatizat de resurse umane este:",
-            "var_A": "o 'retea complet integrata de RU, folosita la prelucrarea datelor, stocarea informatiilor, furnizarea de servicii, crearea de baze de date, instrumente si operatiuni'",
-            "var_B": "un 'sistem de baze de date care contine date despre fiecare angajat, de la momentulrecrutarii pana la momentul iesirii acestuia din organizatie'",
-            "var_C": "o 'retea de aplicatii utilizate de departamentul de resurse umane pentru a tine evidenta angajatilor'",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "64.Conform IDS (2002), beneficiile aduse de un sistem informatizat de MRU sunt urmatoarele:",
-            "var_A": "cresterea cantitatii de date obtinute; scaderea numarului de angajati necesari in departamentul de RU; integrarea MRU cu celelalte sisteme informatizate utilizate in organizatie; scaderea volumului de munca al angajatilor din departamentul de RU",
-            "var_B": "cresterea acuratetei si consecventei datelor obtinute; cresterea accesului celor interesati la datele de RU; cresterea prestigiului functiunii de RU in cadrul organizatiei; optimizarea si standardizarea proceselor",
-            "var_C": "cresterea prestigiului departamentului de RU; scaderea timpului de procesare a datelor angajatilor, securizaarea datelor si restrictionarea accesului la acestea, a celor din afara departamentului de RU",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "65.Una dintre functiile indeplinite de un sistem informatizat de resurse umane este gestionarea datelor personale ale angajatilor referitoare la:",
-            "var_A": "starea civila si situatia familiala, studiile urmate si fostii angajatori, concedii medicale, de odihna si absente nemotivate de la munca",
-            "var_B": "starea civila si situatia familiala, istoric medicat, feedbackurile primite de la alti colegi si de la superiori, evidenta concediilor medicale",
-            "var_C": "evolutia lor profesionala, aptitudini si nivel de calificare, evidenta concediilor si a absentelor",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "66.Una din functiile indeplinite de un sistem informatizat de resurse umane este gestionarea datelor referitoare la:",
-            "var_A": "pozitiile ocupate de angajati, precum si resursele pe care le au la dispozitie, nivelul de salarizare si zilele de concediu",
-            "var_B": "posturile angajatilor, inclusiv clasa de incadrare, remunerarea si stimulentele, orele lucrate, locatii de lucru, fisa postului sau definirea rolului",
-            "var_C": "evolutia angajatilor in cadrul companiei, nivel de salarizare, evaluarile anuale, zilele de concediu si concediile medicale",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "67.Organizatiile mecaniciste:",
-            "var_A": "servesc de multi ani o piata instabila",
-            "var_B": "in plan inters, sunt extrem de precis structurate, cu politici de actiune centralizate",
-            "var_C": "au politici de actiune descentralizate, ranguri ierarhice mai putin rigide",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "68.Organizatiile organice",
-            "var_A": "impun o structura ierarhizata si relatii de comanda si control",
-            "var_B": "impun o structura aplatizata, relatii colegiale si sisteme de administrare flexibile",
-            "var_C": "prezinta un accent puternic pe administrare si garantie strict trasate intre departamente si functiuni",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "69.Scopurile principale ale tuturor organizatiilor sunt acelea:",
-            "var_A": "de a supravietui si de a se dezvolta",
-            "var_B": "de a crea o organigrama functionala si de a avea un profit economic",
-            "var_C": "de a furniza un singur fel de produse si servicii si de a se specializa",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "70.Strategia corporatista este un proces de luare a deciziilor in care organizatia:",
-            "var_A": "planifica viitorul pe termen lung",
-            "var_B": "isi stabileste obiective pe termen scurt",
-            "var_C": "formuleaza doar obiective pe termen mediu",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "71.Realizarea obiectivelor unei corporatii trebuie sa se desfasoare in limitele:",
-            "var_A": "unui management autoritar",
-            "var_B": "culturii lor organizationale",
-            "var_C": "politicilor de actiune ale organizatiei",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "72.Scopurile unei organizatii sunt de a supravietui si de a se dezvolta, iar pentru acest lucru, ea trebuie sa:",
-            "var_A": "continue sa furnizeze tipurile de bunuri si servicii pe care le cer cumparatorii",
-            "var_B": "renunte sa analizeze activitatile concurentilor",
-            "var_C": "tina sub observatie natura factorilor interni de presiune",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "73.Analiza SWOT este o tehnica de planificare strategica care se concentreaza pe:",
-            "var_A": "atuurile, slabiciunile, oportunitatile si amenintarile cu care se confrunta organizatia",
-            "var_B": "pe factorii de presiune externi",
-            "var_C": "pe cultura organizationala si factorii de presiune interni",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "74.Analiza PESTLE este o tehnica de planificare strategica care se concentreaza pe",
-            "var_A": "factorii de presiune interni",
-            "var_B": "factorii politici, economici, sociali, tehnologici, de munca si ecologici",
-            "var_C": "oportunitatile si amenintarile cu care se confrunta organizatia",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "75.Informatiile care deriva din desfasurarea analizelor SWOT si PESTLE alcatuiesc o baza pentru:",
-            "var_A": "a desemna cel mai bun angajat al anului",
-            "var_B": "a analiza trecutul culturii organizationale",
-            "var_C": "deciziile ce se iau referitor la viitorul organizatiei",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "76.Informatiile care deriva din desfasurarea analizelor SWOT si PESTLE ajuta:",
-            "var_A": "angajatii sa se dezvolte mai eficient si in timp scurt",
-            "var_B": "sa ascunda cat mai bine problemele ce se cer rezolvate",
-            "var_C": "organizatia sa formuleze politici noi de actiune, cu care sa raspunda la influentele legislatiei si la alte presiuni",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "77.Aria de control se refera la:",
-            "var_A": "numarul de angajati care intra sub controlul direct al unui manager",
-            "var_B": "legislatia muncii si alte acte normative",
-            "var_C": "mediul extern si concurentii organizatiei",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "78.Criticile aduse organizatiilor matriciale se refera la faptul ca:",
-            "var_A": "la locul de munca se invata doar concepte generale",
-            "var_B": "este frustrant sa lucrezi la doi sefi",
-            "var_C": "urmeaza sa inveticeva specific, doar prin sistemul de educatie nonformala",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "79. Vectorii care stimuleaza schimbarea organizationala sunt:",
-            "var_A": "valorile si brandul de angajator",
-            "var_B": "concurenta si clientii",
-            "var_C": "tehnologia, guvernarea politica si globalizarea",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "80. Fortele majore ale schimbarii cu efect pe termen lung sunt:",
-            "var_A": "stilul de comunicare si conducere al managerilor",
-            "var_B": "concurenta, exigentele clientilor si ritmul accelerat de uzura morala a tehnologiei",
-            "var_C": "mediul extern si clientii organizatiei",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "81. Restructurarea prin restrangere este denumita si:",
-            "var_A": "restructurarea la dimensiunea incorecta",
-            "var_B": "restructurarea la dimensiunea corecta",
-            "var_C": "restructurarea functionala",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "82. Golding (2004) vorbeste despre integrarea verticala ca despre un mijloc pentru:",
-            "var_A": "reducerea stresului in organizatie",
-            "var_B": "imbunatatirea performantei",
-            "var_C": "stabilirea unor politici de actiune pe termen lung",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "83. Restructurarea prin constrangere inseamna:",
-            "var_A": "reducerea numarului de angajati de la nivelurile manageriale pentru a reduce costurile",
-            "var_B": "reducerea numarului de angajati de la nivelurile operationale pentru o productivitate mai mare",
-            "var_C": "integrarea profesionala a angajatilor in organizatie",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "84. Aplatizarea inseamna:",
-            "var_A": "reducerea numarului de angajati de la nivelurile operationale pentru o productivitate mai mare",
-            "var_B": "o relatie explicita intre procesele si politicile interne de personal",
-            "var_C": "reducerea numarului de angajati de la nivelurile manageriale pentru a reduce costurile",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "85. Managementul efectiv al resurselor umane si al relatiilor cu angajatii este in primul rand responsabilitatea:",
-            "var_A": "managerilor de linie (operationali)",
-            "var_B": "managerilor financiari",
-            "var_C": "departamentului de salarizare",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "86. Planificarea fortei de munca este o strategie:",
-            "var_A": "de mentinere a personalului in organizatie",
-            "var_B": "de dobandire, utilizare, imbunatatire si pastrare a resurselor umane in organizatie",
-            "var_C": "de onboarding",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "87. Planificarea moderna a resurselor umane este un proces destinat:",
-            "var_A": "nonmanagerilor",
-            "var_B": "dezvoltarii unor politici de dezvoltare profesionala a angajatilor",
-            "var_C": "identificarii cerintelor curente si viitoare de resurse umane ale unei organizatii",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "88. Judecata manageriala, ca metoda de previzionare a cererii de resurse umane, are o maxima eficacitate in:",
-            "var_A": "organizatiile mici care au o structura relativ stabila",
-            "var_B": "organizatiile multinationale",
-            "var_C": "organizatiile matriciale de mari dimensiuni",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "89. Eficacitatea analizei de tendinta a indicatorilor, ca metoda de previzionare a cererii de resurse umane, depinde de:",
-            "var_A": "stabilitatea viitoare a relatiei dintre nivelul productivitatii si numarul de angajati",
-            "var_B": "previziunea fortei de munca",
-            "var_C": "continutul planului de afaceri",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "90. Abordarea pe baza studiului muncii are maxima eficacitate in departamentele administrative unde sarcinile sunt:",
-            "var_A": "deosebit de complexe",
-            "var_B": "repetitive",
-            "var_C": "in responsabilitatea managerului de linie",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "91. Indicele fluctuatiei personalului este:",
-            "var_A": "numarul celor angajati intr-un an/numarul maxim de angajati x 100",
-            "var_B": "numarul celor plecati intr-un an/numarul mediu de angajati x 100",
-            "var_C": "numarul angajatilor aflati in concediu/numarul maxim de angajati x 100",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "92. Indicele de stabilitate a fortei de munca (ISFM) este",
-            "var_A": "numarul angajatilor aflati in concediu/numarul maxim de angajati x 100",
-            "var_B": "numarul angajatilor cu peste un an vechime/numarul angajatilor existenti in urma cu un an x 100",
-            "var_C": "numarul celor plecati intr-un an/numarul celor sositi intr-un an x 100",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "93. Atunci cand un manager de linie identifica un post liber, el va trebui sa completeze un formular numit:",
-            "var_A": "analiza SWOT pentru activitatea de recrutare",
-            "var_B": "autorizarea de recrutare",
-            "var_C": "deficit de personal calificat",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "94. Avantajele recrutarii electonice sunt:",
-            "var_A": "ciclul de recrutare dureaza mai mult",
-            "var_B": "se poate ajunge la o gama restransa de aplicanti",
-            "var_C": "se pot reduce costurile, daca recrutarea electronica este folosita in locul altor metode mai scumpe",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "95. Factorii care pot sa inhibe sau sa faciliteze rata de succes a recrutarii dintr-o organizatie sunt:",
-            "var_A": "diversitatea, deficitul de personal calificat si somajul",
-            "var_B": "cultura organizationala si climatul psihosocial din organizatie",
-            "var_C": "stilul de conducere si comunicarea in organizatie",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "96. Cei care organizeaza si participa efectiv in procesul de selectie intr-o organizatie sunt:",
-            "var_A": "nonmanagerii",
-            "var_B": "practicienii de resurse umane si managerii de linie",
-            "var_C": "managerii superiori",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "97. Managerii superiori:",
-            "var_A": "formuleaza politicile de selectie, elaboreaza procedurile si faciliteaza instruirea profesionala pentru cei implicati",
-            "var_B": "organizeaza efectiv evenimentele de selectie",
-            "var_C": "participa pe tot parcursul procesului, pana la luarea deciziei finale",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "98. Problemele esentiale care sporesc importanta deciziei de selectie sunt:",
-            "var_A": "managementul personalului",
-            "var_B": "strategia corporatista",
-            "var_C": "schimbarile demografice, cererea pentru o forta de munca flexibila, policalificata si accentul pus pe strategia corporatista si managementul personalului",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "99. Selectia strategica este:",
-            "var_A": "un sistem care coreleaza procesele si rezultatele selectiei cu interesele individuale",
-            "var_B": "o politica care nu cauta sa creeze o corespondenta intre strategiile de afaceri si fluxul de personal",
-            "var_C": "un sistem care coreleaza procesele si rezultatele selectiei cu scopurile organizatiei",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "100. Testele de selectie:",
-            "var_A": "sunt concepute aleatoriu de catre practicienii de resurse umane",
-            "var_B": "sunt proiectate de psihologi, care au calitatea de experti in domeniu",
-            "var_C": "masoara performanta angajatilor in termenii comportamentali, a ceea ce face individul efectiv",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "101. Avantajul utilizarii tehnicilor de testare psihometrica:",
-            "var_A": "pot fi concepute de orice inspector de resurse umane",
-            "var_B": "masoara doar calitatea muncii prestate de un angajat",
-            "var_C": "produce dovezi obiective si care pot fi coroborate cu alte metode",
-            "var_corecta": "C"
-        },
-        {
-            "intrebare": "102. Un centru de evaluare:",
-            "var_A": "este un grup restrans de participanti care parcurg sub observatie o serie de teste si de exercitii, in ideea de a evalua aptitudinile si competentele, gradul de adecvare pentru anumite roluri",
-            "var_B": "este un grup mare de participanti care parcurg o serie de teste scrise si raspund la intrebarile orale",
-            "var_C": "se refera la evaluarea periodica a performantelor si promovarea angajatilor pe un post superior",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "103. In cadrul interviurilor structurate:",
-            "var_A": "interactiunea este mai putin standardizata",
-            "var_B": "raspunsurile sunt notate de intervievator pe baza unor scale de apreciere pre-formatate",
-            "var_C": "candidatilor li se adreseaza intrebari diferite",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "104. Un manager de linie (operational) este un angajat cu rang superior:",
-            "var_A": "care are responsabilitatea de a se asigura ca toate sarcinile sunt efectuate la timp si conform standardelor stabilite",
-            "var_B": "care analizeaza ce ati invatat in trecut si stabileste obiective pe termen scurt",
-            "var_C": "care analizeaza cultura si comportamentul organizational",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "105. Un sistem informational computerizat de resurse umane:",
-            "var_A": "asigura o baza de incredere pentru luarea deciziilor strategice",
-            "var_B": "furnizeaza partial informatii atunci cand trebuie sa se ia decizii legate de viitorul unui angajat",
-            "var_C": "nu sprijina intotdeauna serviciile furnizate managerilor de linie",
-            "var_corecta": "A"
-        },
-        {
-            "intrebare": "106. In interiorul organizatiilor, factorii care au influentat si vor continua sa influenteze schimbarea, mai ales in lumina efectelor produse asupra resurselor umane sunt:",
-            "var_A": "stilul de conducere si comunicare bottom-up",
-            "var_B": "legile noi, progresele tehnologice permanente si managementul resurselor umane",
-            "var_C": "brandul de angajator si viziunea organizatiei",
-            "var_corecta": "B"
-        },
-        {
-            "intrebare": "107. Managementul resurselor umane de tip tehnicist inseamna: ",
-            "var_A": "primatul necesitatilor economice, accentul punandu-se pe aspectele cantitative si mai putin pe nevoile resurselor umane",
-            "var_B": "a recunoaste diferentele dintre oameni si a-i pune in valoare, respecandu-le obiectivele personale",
-            "var_C": "a recunoaste diversitatea in planul valorilor organizationale",
-            "var_corecta": "A"
-        }
-    ]
+  "intrebari": [
+    {
+      "intrebare": "1.Managementul capitalului uman este:",
+      "var_A": "definit ca o abordare strategica si coerenta a modului in care sunt gestionate cele mai pretuite active ale unei organizatii: oamenii care muncesc in organizatie",
+      "var_B": "preocupat de obtinerea, prelucrarea si raportarea datelor care stau la baza elaborarii unor decizii generatoare de valoare in domeniul managementului oamenilor",
+      "var_C": "preocupat de cresterea competentelor si abilitatilor managerilor de resurse umane, mai ales in sectoare care necesita investitii semnificative de capital si tehnologii de varf",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "2.Managementul capitalului trateaza oamenii din organizatie ca:",
+      "var_A": "active",
+      "var_B": "costuri",
+      "var_C": "active si pasive",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "3.Conceptul de capital uman se refera la:",
+      "var_A": "faptul ca oamenii genereaza cunostinte institutionalizate, pe baza interactiunilor care se afla in posesia unei organizatii",
+      "var_B": "faptul ca oamenii imbogatesc cunostintele in cursul interactiunilor",
+      "var_C": "faptul ca oamenii genereaza, pastreaza si folosesc cunostinte si aptitudini",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "4.Modelul creat de Fundatia Europeana pentru Managementul Calitatii (EFQM) pentru evaluarea si masurarea din managementul capitalului uman cuprinde urmatoarele elemente:",
+      "var_A": "perspectiva clientilor, perspectiva financiara, perspectiva interna, perspectiva inovarii si invatarii",
+      "var_B": "leadershipul, politicile si strategiile, managementul oamenilor, resursele, procesele, satisfactia clientilor, satisfactia propriilor oameni, impactul asupra societatii, rezultatele economice",
+      "var_C": "atitudinea fata de post, atitudinea fata de munca, serviabilitatea, pastrarea angajatilor, valoarea pe piata a ofertei companiei, recomandarea companiei de catre clienti, pastrarea clientilor, investitii cu randament bun",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "5.Managementul international al resurselor umane implica:",
+      "var_A": "managementul expatriatilor - adica al persoanelor detasate in tara-gazda",
+      "var_B": "managementul tuturor angajatilor, atat din tara de origine, cat si din tara gazda",
+      "var_C": "managementul angajatilor imigranti si emigranti",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "6.O firma multinationala este:",
+      "var_A": "o firma ale carei optiuni se desfasoara in mai multe entitati subordonate - filiale - aflate in alte tari decat in cea de origine, folosind competente profesionale si de afaceri, sau capacitati de productie, ale firmei-mama",
+      "var_B": "o firma care furnizeaza produse sau servicii optimizate si standardizate in asa fel incat productia sau furnizarea lor la nivel local sa se realizeze in mod cat mai rentabil sub aspectul costurilor",
+      "var_C": "o firma care este compusa din mai multe entitati de afaceri, cu diferite grade de autonomie, aflate in diferite tari si gestionate de la centru ca si cum ar fi un tot unitar",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "7.Conform Bartlett si Goshal (1993), modelul organizational de tip 'federatie coordonata'",
+      "var_A": "fiecare unitate nationala este administrata ca entitate separata ce cauta sa-si optimizeze performanta la nivel local (modelul traditional al corporatiei multinationale)",
+      "var_B": "centrul creeaza sisteme sofisticate de management care ii permit sa pastreze controlul global, chiar daca i se ofera conducerii manageriale locale libertatea de a adopta practici care sa tina cont de conditiile pietei locale",
+      "var_C": "corporatia isi dezvolta capabilitati strategice multidimensionale directionate spre concurenta globala, dar manifesta si receptivitate locala la cerintele pietei",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "8.Brewster (2004) considera ca in cazul firmelor internationale europene politicile de resurse umane sunt mai curand:",
+      "var_A": "divergente (politicile sunt diferentiate in functie de cerintele locale)",
+      "var_B": "convergente (politicile sunt in principal aceleasi, indiferent de localizare)",
+      "var_C": "convexe (politicile sunt externalizate)",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "9.Politicile de resurse umane se refera la:",
+      "var_A": "modalitatile de recrutare si selectie a personalului",
+      "var_B": "formularea explicita si precisa a actiunilor care trebuie intreprinse",
+      "var_C": "directia normativa generala a abordarii adoptate de organizatie in privinta diverselor aspecte ale raporturilor de munca",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "10.Politica generala de resurse umane defineste modul in care organizatia isi indeplineste rolurile fata de angajati si stabileste atitudinile fata de angajati. Politica generala se poate referi la:",
+      "var_A": "echitate, consideratie, invatare organizationala, performante organizationale prin oameni, echilibrul viata-munca, calitatea vietii profesionale, conditiile de munca",
+      "var_B": "egalitatea sanselor, gestionarea diversitatii, varsta angajatilor, promovarea, echilibrul dintre viata profesionala si cea personala, dezvoltarea angajatilor, recompensarea, implicarea si participarea, relatiile cu angajatii, introducerea de noi tehnologii, protectia muncii si sanatatii, disciplina, nemultumirile si plangerile angajatilor, disponibilizarea, hartuirea sexuala, hartuirea prin intimidare, abuzul de substante, comunicarea prin mijloace electronice",
+      "var_C": "modalitati generale de recrutare, selectie si dezvoltare a personalului",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "11.Politicile specifice de resurse umane acopera urmatoarele domenii:",
+      "var_A": "echitatea, consideratia, invatarea organizationala, performantele organizationale prin oameni, echilibrul viata-munca, calitatea vietii profesionale, conditiile de munca",
+      "var_B": "egalitatea sanselor, gestionarea diversitatii, varsta angajatilor, promovarea, achilibrul dintre viata profesionala si cea personala, dezvoltarea angajatilor, recompensarea, implicarea si participarea, relatiile cu angajatii, introducerea de noi tehnologii, protectia muncii si sanatatii, disciplina, nemultumirile si plangerile angajatilor, disponibilizarea, hartuirea sexuala, hartuirea prin intimidare, abuzul de substante, comunicarea prin mijloace electronice",
+      "var_C": "modalitatile specifice de recrutare, selectie si dezvoltare a personalului",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "12.Competentele comportamentale definesc:",
+      "var_A": "asteptarile comportamentale la adresa angajatului, adica tipul de comportament necesar pentru obtinerea rezultatelor in munca (competente soft: subiective sau relationale)",
+      "var_B": "ce trebuie sa stie si sa poata sa faca angajatul pentru a-si exercita cu eficacitate rolurile (competente hard: concrete, tehnice)",
+      "var_C": "capacitatea de a recunoaste propriile sentimente si pe ale celor din jur si de automotivare",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "13.Competentele tehnice definesc:",
+      "var_A": "asteptarile comportamentale la adresa angajatului, adica tipul de comportament necesar pentru obtinerea rezultatelor in munca (competente soft: subiective sau relationale)",
+      "var_B": "ce trebuie sa stie si sa poata sa faca angajatul pentru a-si exercita cu eficacitate rolurile (competente hard: concrete, tehnice)",
+      "var_C": "capacitatea de a masura relatiile intraorganizationale",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "14.Conform Goleman (1995), componentele inteligentei emotionale sunt:",
+      "var_A": "gestionarea propriilor emotii, gestionarea emotiilor celor din jur, comportamentul prosocial",
+      "var_B": "gestionarea propriilor emotii, gestionarea relatiilor cu managementul, gestionarea relatiilor cu angajatii, leadership",
+      "var_C": "gestionarea propriilor emotii, constiinta propriului eu, discernamantul social, aptitudinea sociala",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "15.Managementul cunostintelor presupune:",
+      "var_A": "identificarea resurselor de cunoastere prin identificarea informatiilor relevante",
+      "var_B": "transformarea resurselor de cunoastere prin identificarea informatiilor relevante si difuzarea lor in asa fel incat sa poata avea loc invatarea",
+      "var_C": "invatarea continua",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "16.Cunoasterea explicita:",
+      "var_A": "este inregistrata, disponibila si pastrata in baze de date sau portofolii de proprietate intelectuala",
+      "var_B": "exista in mintile oamenilor, fiind dificil de exprimat in scris si se dobandeste prin experienta personala",
+      "var_C": "este suma cunostintelor specifice acumulate de-a lungul studiilor de specialitate de catre fiecare angajat in parte",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "17.Strategia codificarii, ca abordare a managementului cunostintelor, inseamna ca:",
+      "var_A": "cunostintele sunt atent codificate si stocate in baze de date unde pot fi consultate si utilizate cu usurinta de oricine din organizatie",
+      "var_B": "cunostintele sunt indisolubil legate de persoana care le-a creat si se transmit aproape numai prin contact personal direct",
+      "var_C": "cunostintele sunt atent codificate de persoana care le-a creat si decodificate cu usurinta de managementul orhganizatiei",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "18.Analiza rolului:",
+      "var_A": "este un proces prin care se stabileste care sunt asteptarile cu privire la rezultatele obtinute de angajati in munca lor, precum si competentele si aptitudinile necesare pentru indeplinirea acelor asteptari",
+      "var_B": "recurge la analiza functionala in vederea determinarii dimensiunilor comportamentale care influenteaza performanta pe post in vederea definirii cadrelor de competenta",
+      "var_C": "determina aptitudinile necesare pentru a atinge un standard acceptabil de performanta. Se foloseste in principal pentru posturile tehnice si de munca manuala si administrativa, oferind o baza pentru conceperea programelor de invatare si instruire",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "19.Analiza competentei:",
+      "var_A": "este un proces prin care se stabileste care sunt asteptarile cu privire la rezultatele obtinute de angajati in munca lor, precum si competentele si aptitudinile necesare pentru indeplinirea acelor asteptari",
+      "var_B": "recurge la analiza functionala in vederea determinarii dimensiunilor comportamentale care influenteaza performanta pe post in vederea definirii cadrelor de competenta",
+      "var_C": "determina aptitudinile necesare pentru a atinge un standard acceptabil de performanta. Se foloseste in principal pentru posturile tehnice si de munca manuala si administrativa, oferind o baza pentru conceperea proghramelor de invatare si instruire",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "20.Analiza aptitudinilor:",
+      "var_A": "este un proces prin care se stabileste care sunt asteptarile cu privire la rezultatele obtinute de angajati in munca lor, precum si competentele si aptitudinile necesare pentru indeplinirea acelor asteptari",
+      "var_B": "recurge la analiza functionala in vederea determinarii dimensiunilor comportamentale care influenteaza performanta pe post in vederea definirii cadrelor de competenta",
+      "var_C": "determina aptitudinile necesare pentru a atinge un standard acceptabil de performanta. Se foloseste in principal pentru posturile tehnice si de munca manuala si administrativa, oferind o baza pentru conceperea programelor de invatare si instruire.",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "21.Teoria mandatarii (a muncii ca factor de productie) inseamna ca:",
+      "var_A": "surplusul se insuseste prin remunerarea fortei de munca cu mai putin decat valoarea adaugata de aceasta procesului de munca",
+      "var_B": "patronii si managerii trebuie sa conceapa moduri prin care sa urmareasca si sa controleze activitatile angajatilor",
+      "var_C": "se urmareste cresterea angajamentului asumat de angajati fata de organizatie",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "22.Conceptul functionarii cu costuri minime (organizarea 'economicoasa') a organizatiilor urmareste identificarea unor metode mai economice de munca. Care dintre metodele de mai jos pot fi considerate abordari negative?",
+      "var_A": "reducerea efectivului de angajati (restructurarea prin restrangere)",
+      "var_B": "organizarea muncii pe baza de echipe",
+      "var_C": "practici de imputernicire a personalului si de dezvoltare a problemelor",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "23.Aplatizarea structurii organizatorice inseamna:",
+      "var_A": "reducerea numarului de angajati",
+      "var_B": "reducerea numarului de niveluri manageriale si de supervizare",
+      "var_C": "reducerea numarului de furnizori de servicii conexe",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "24.'Partile' implicate in relatia de munca sunt:",
+      "var_A": "regulile/procedurile formale, parerile si asteptarile informale",
+      "var_B": "nivelul, procesul, stilul",
+      "var_C": "managerii, angajatii, reprezentantii angajatilor",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "25.Contractele de munca relationale:",
+      "var_A": "au conditii ale schimbului intre parti bine definite, de regula exprimate in termeni financiari; au o durata limitata si cerinte specifice in materie de performanta",
+      "var_B": "sunt mai putin precis definite si se refera la o calitate negociabila de membru al organizatiei; cerintele de performanta aferente calitatii neintrerupte de membru al organizatiei sunt incomplete sau ambiguu formulate",
+      "var_C": "sumarizeaza convingerile pe care le au un angajat si angajatorul sau in raport cu ce asteapta fiecare de la celalalt",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "26.Contractele de munca care au conditii intre parti bine definite, de regula exprimate in termeni financiari, care au o durata limitata si cerinte specifice in materie de performanta se numesc:",
+      "var_A": "contracte tranzactionale",
+      "var_B": "contracte relationale",
+      "var_C": "contracte psihologice",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "27.Relatia de munca care exprima combinatia de convingeri pe care le adopta un individ si angajatorul lui in privinta a ceea ce asteapta fiecare de la celalalt se numeste: ",
+      "var_A": "contract tranzactional",
+      "var_B": "contract relational",
+      "var_C": "contract psihologic",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "28.Contractul de munca psihologic este:",
+      "var_A": "un contract formal",
+      "var_B": "o metafora",
+      "var_C": "poate fi aplicat prin sentinta judecatoreasca",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "29.In modelul contractului psihologic propus de Guest, Conway, Briner si Dickman (1996), continutul se refera la:",
+      "var_A": "cultura organizationala, politica si practica de MRU, experienta, asteptarile; alternativele",
+      "var_B": "corectitudine/impartialitate, incredere, respectarea intelegerii",
+      "var_C": "conduita sociala, angajament organizational, motivatie, satisfactie",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "30.Cele cinci mari trasaturi de personalitate, asa cum au fost definite de Deary si Matthews (1993), sunt:",
+      "var_A": "constiinciozitatea, caracterul nevrotic, caracterul agreabil, caracterul extravertit, sinceritatea",
+      "var_B": "nevrozitatea, calmul, sinceritatea, constiinta, nerabdarea",
+      "var_C": "caracterul introvertit, puterea de concentrare, amabilitatea, inteligenta, rezistenta la stres",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "31.Factorii care influenteaza modul cum se comporta oamenii in mediul de munca sunt:",
+      "var_A": "statusurile, pozitiile ocupate, nivelurile de educatie, modurile in care au fost socializati, locurile de munca anterioare",
+      "var_B": "pozitiile ocupate anterior, aspiratiile, posibilitatile de avansare, nivelurile de salarizare, beneficiile non-financiare",
+      "var_C": "rolurile, orientarea, teoria atribuirii, influentele asupra comportamentului, atitudinile, diferentele individuale",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "32.Categoriile specifice in cadrul carora pot sa varieze caracteristicile personale au fost clasificate de Mischel (1968) dupa cum urmeaza",
+      "var_A": "cunostintele, abilitatile, caracterul, inteligenta, amabilitatea",
+      "var_B": "caracterul introvertit, puterea de concentrare, amabilitatea, inteligenta, rezistenta la stres",
+      "var_C": "competentele, notiunile conceptuale, asteptarile, vslorile, planurile autoimpuse",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "33.Kelley (1967) este de parere ca exista patru criterii pe care le aplicam pentru a decide daca un comportament poate fi atribuit mai degraba unor cauze personale decat unor cauze exterioare (situationale). Acestea sunt:",
+      "var_A": "nivelul de educatie, caracteristicile de personalitate, mediul de provenienta, nivelul de specializare",
+      "var_B": "consecventa in modalitate, consecventa in timp, consensul, caracterul distinctiv",
+      "var_C": "relatiile personale, relatiile profesionale, nivelul de educatie, circumstantele exterioare",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "34.Conflictul de rol rezulta atunci cand, desi rolurile sunt clar definite si nu exista incompatibilitate intre asteptari:",
+      "var_A": "apar confliocte intre angajati",
+      "var_B": "individul trebuie sa joace doua roluri antagoniste",
+      "var_C": "angajatii cu roluri diferite ajung, totusi, la conflicte",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "35.Asa cum e definit de Porter et al. (1974), angajamentul se refera la atasament si loialitate si depinde de taria cu care se identifica individul cu organizatia sa sau de intensitatea implicarii sale in activitatea acesteia. Angajamentul cuprinde trei laturi:",
+      "var_A": "asumarea valorilor si convingerilor organizatiei; respectarea tuturor sarcinilor primite de la superiori; dorinta de a depune efort in folosul organizatiei in functie de nevoile acesteia, chiar daca acesta este diferit de fisa postului sau depaseste programul normal de lucru",
+      "var_B": "dorinta puternica de a-si pastra calitatea de membru al organizatiei; acceptarea si respectarea fara rezerve a valorilor si telurilor organizatiei; vointa de a depune un efort considerabil in slujba organizatiei",
+      "var_C": "loialitate fata de colegi si superiori; implicare deplina in interesul organizatiei; lipsa dorintei de a parasi organizatia",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "36.Principiile directoare ale firmelor caracterizate prin angajament reciproc asumat se pot regasi la:",
+      "var_A": "nivelul managementului, nivelul departamentului de resurse umane sau la nivelul angajatilor obisnuiti",
+      "var_B": "nivel strategic, nivel functional sau nivelul locului de munca",
+      "var_C": "nivel teoretic, nivel practic, nivel strategic",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "37.Nivelul de angajament al oamenilor si satisfactia lor in munca sunt influentate de:",
+      "var_A": "leadership, management, nivel de salarizare, beneficii extrasalariale, flexibilitatea programului",
+      "var_B": "permisivitatea managerilor, nivelul de salarizare, relatiile cu colegii, relatiile cu sefii, nivelul bonusurilor",
+      "var_C": "recunoasterea contributiei, leadershipul: vizibilitatea liderului si increderea in acesta, calitatea managementului de linie, relatia cu managerul, relatia cu colegii",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "38.Cultura organizationala poate fi descrisa in termenii:",
+      "var_A": "istoriei, obiceiurilor si stilului de conducere",
+      "var_B": "de pozitiva, negativa, dezvoltata sau mai putin dezvoltata",
+      "var_C": "valorilor, normelor, artefactelor si stilurilor manageriale si de leadership",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "39.Liderii pot fi clasificati in functie de urmatoarele dimensiuni: ",
+      "var_A": "carismatic/non-carismatic, dominator/democratic, facilitare/control, tranzactional/transformational",
+      "var_B": "autoritar/laissez-faire, traditional/progresist, formal/non-formal, autocratic/democratic ",
+      "var_C": "carismatic/non-carismatic, autocratic/democratic, tranzactional/transformational, traditional/progresist",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "40.Care sunt cele 4 dimensiuni definitorii ale culturii organizationale, conform lui Williams, Dobson si Walters (1989)?",
+      "var_A": "cultura puterii, cultura conducerii, cultura mediului inconjurator, cultura generala",
+      "var_B": "orientarea spre oameni, orientarea spre sarcina, orientarea spre rol, orientarea spre putere",
+      "var_C": "orientarea spre scopuri, orientarea spre profit, orientarea spre oameni, orientarea spre mediul de afaceri",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "41.Conform lui Williams, Dobson si Walters (1989), orientarea spre putere inseamna ca:",
+      "var_A": "cei care au putere legitima au mai multe sanse de a avansa in cadrul organizatiei",
+      "var_B": "organizatiile incearca sa-si domine mediul si cei care exercita puterea se straduiesc sa pastreze un control absolut asupra subordonatilor",
+      "var_C": "cei care au putere informala primesc din partea organizatiei si functii de conducere, pentru a detine in acest mod si putere formala",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "42.Conform lui Williams, Dobson si Walters (1989), orientarea spre rol inseamna ca:",
+      "var_A": "organizatia pune accentul pe modul in care angajatii isi duc rolurile la indeplinire, indiferent de rezultatele obtinute",
+      "var_B": "organizatia pune accentul pe rol, ierarhia si statusul nefiind atat de importante",
+      "var_C": "organizatia pune accentul pe legalitate, legitimitate si responsabilitate. Ierarhia si statusul sunt importante",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "43.Managementul talentului inseamna:",
+      "var_A": "un set integrat de activitati menite sa-i asigure organizatiei capacitatea de a atrage, pastra, motiva si perfectiona oamenii talentati de care are nevoie in prezent si in viitor",
+      "var_B": "un set integrat de activitati menite sa atraga, sa mentina si sa dezvolte oameni talentati in organizatie",
+      "var_C": "un set integrat de activitati menite sa ajute oamenii talentati sa fie mai organizati",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "44.Scopul managementului talentului este:",
+      "var_A": "sa realizeze in organizatie fluxul optim de talent, tinand cont ca talentul este o resursa corporativa esentiala",
+      "var_B": "sa gaseasca si sa aduca in organizatie cei mai talentati oameni",
+      "var_C": "sa ajute angajatii sa isi gaseasca si sa isi dezvolte talentele",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "45.Auditul talentului este procesul prin care:",
+      "var_A": "se identifica angajatii cu potential si se creeaza baza pentru planificarea si dezvoltarea carierei, asigurandu-li-se o succesiune de oportunitati de imbogatire a experientei, urmate de programe de coaching si studiu menite sa-i faca apti pentru indeplinirea unor roluri viitoare mai complexe si mai solicitante",
+      "var_B": "angajatii sunt testati in vederea identificarii talentelor fiecaruia, astfel incat acestia sa poata fi alocati unor echipe mai potrivite",
+      "var_C": "se identifica angajatii talentati si cei netalentati, dupa care se realizeaza atat ajustari pe post, cat si ajustari salariale",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "46.Planificarea carierei:",
+      "var_A": "reprezinta procesul prin care un angajat isi planifica parcursul profesional in cadrul organizatiei",
+      "var_B": "descrie modul in care departamentul de resurse umane stabileste, la angajare, traiectoria in cariera a noului angajat",
+      "var_C": "descrie modul cum va avansa angajatul in cadrul organizatiei in functie de nevoile pe care si le defineste acesta, de profilul de succes al angajatului, de performantele obtinute de angajat, de potentialul si preferintele sale",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "47.Plasarea in alte locuri de munca este procesul prin care:",
+      "var_A": "sunt ajutati angajatii disponibilizati sa-si gaseasca alta slujba sau sa-si inceapa alta cariera",
+      "var_B": "angajatii sunt mutati pe alte pozitii, in functie de nevoile organizatiei",
+      "var_C": "angajatii sunt plasati pe piata fortei de munca de catre agentiile de recrutare",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "48.Procedura de disponibilizare trebuie sa aiba in vedere urmatoarele obiective:",
+      "var_A": "sa ajute angajatii disponibilizati sa-si gaseasca alta slujba sau sa-si inceapa alta cariera, sa plaseze fostii angajati pe piata fortei de munca, sa faciliteze legatura intre fostii angajati si agentiile de recrutare",
+      "var_B": "sa atenueze pe cat posibil greaua lovitura; sa protejeze capacitatea conducerii manageriale de a gestiona cu eficacitate activitatea organizatiei; sa-i trateze pe angajati cat mai corect si impartial posibil.",
+      "var_C": "sa gaseasca un inlocuitor potrivit inainte de disponibilizarea unui angajat; sa anunte din timp angajatul ca va fi disponibilizat",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "49.Elementele esentiale ale dezvoltarii resurselor umane sunt:",
+      "var_A": "dezvoltarea, progresul, remunerarea corecta, retentia",
+      "var_B": "dezvoltarea, educatia, invatarea, instruirea",
+      "var_C": "dezvoltarea, recrutarea, consilierea, mentoratul",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "50.Strategia de dezvoltare a resurselor umane bazata pe centralizare inseamna ca:",
+      "var_A": "toate activitatile specifice dezvoltarii resurselor umane sunt coordonate de un departament de resurse umane aflat in sediul central al organizatiei",
+      "var_B": "toate activitatile de consiliere, mentorat, planificare a carierei sunt conduse si controlate de la centru",
+      "var_C": "toate activitatile de invatare si dezvoltare sunt conduse si controlate de la centru",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "51.Obiectivele specifice ale dezvoltarii resurselor umane strategice sunt:",
+      "var_A": "dezvoltarea resursei umane din cadrul organizatie printr-o diversitate de metode si strategii de invatare",
+      "var_B": "dezvoltarea capitalului uman si a organizatiei prin activitati de socializare si teambuildinguri",
+      "var_C": "dezvoltarea capitalului intelectual si promovarea invatarii organizationale, in echipa si individual, prin crearea unei culturi a invatarii",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "52.Cele 4 niveluri de evaluare a instruirii sunt:",
+      "var_A": "1. Reactia; 2. Evaluarea invatarii; 3. Evaluarea comportamentului; 4. Evaluarea rezultatelor",
+      "var_B": "1. Evaluarea nevoii de instruire; 2. Evaluarea metodologiei de instruire; 3. Evaluarea instructorilor; 4. Evaluarea cunostintelor obtinute",
+      "var_C": "1. Evaluarea nevoilor de instruire; 2. Evaluarea inainte de instruire; 3. Evaluarea imediat dupa finalizarea instruirii; 4. Evaluarea la 6 luni de la finalizarea instruirii",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "53. La al doilea nivel de evaluare a instruirii, evaluarea invatarii, se obtin informatii cu privire la:",
+      "var_A": "gradul in care lucrurile invatate sunt aplicate",
+      "var_B": "gradul in care au fost atinse obiectivele invatate",
+      "var_C": "gradul in care participantii la invatare sunt multumiti de modul in care li se preda",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "54.Obiectivul celui de-al patrulea nivel de evaluare a instruirii, evaluarea rezultatelor este:",
+      "var_A": "valoarea adaugata generata de program",
+      "var_B": "aflarea cantitatii de informatii acumulate de participantii la procesul de instruire",
+      "var_C": "aflarea rezultatelor pe termen mediu si lung ale programului de instruire",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "55.Teoria managementului prin 'comunicare eficienta'se bazeaza pe cel putin una dintre urmatoarele premise:",
+      "var_A": "necesitatile si telurile angajatilor si ale conducerii sunt aceleasi in oricare organizatie. Ideile si obiectivele managerilor si ale angajatilor pot fi reunite in mod adecvat pentru a forma un cadru conceptual unic",
+      "var_B": "diferentele de opinii intre conducere si angajati se datoreaza comunicarii externe",
+      "var_C": "conflictele de munca pot fi solutionate prin reducerea volumului informatiilor comunicate",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "56.Comunicarea descendenta si laterala a obiectivelor generale sau functionale, a politicilor, planurilor si bugetelor celor care au sarcina sa le execute; comunicarea descendenta a instructiunilor directe de la manager la subordonat privind sarcinile de lucru; comunicarea ascendenta si laterala a propunerilor, sugestiilor si comentariilor privind obiectivele generale sau functionale, politicile si bugetele de la cei care trebuie sa le execute; comunicarea ascendenta si laterala a datelor referitoare la performanta si la rezultate sunt circumscrise zonei de comunicare:",
+      "var_A": "manageriale",
+      "var_B": "relatii interne",
+      "var_C": "relatii externe",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "57.Comunicarea descendenta de informatii privind planurile, politicile sau performanta companiei sunt circumscrise zonei de comunicare:",
+      "var_A": "manageriale",
+      "var_B": "relatii interne",
+      "var_C": "relatii externe",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "58.Primirea si analiza informatiilor din afara companiei, care ii afecteaza interesele; prezentarea de informatii despre companie si produsele sale institutiilor guvernamentale, clientilor si publicului general sunt circumscrise zonei de comunicare:",
+      "var_A": "manageriale",
+      "var_B": "relatii interne",
+      "var_C": "relatii externe",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "59.In cadrul unei organizatii, serviciile sociale pot fi:",
+      "var_A": "servicii de grup, servicii individualizate si servicii generale",
+      "var_B": "servicii colective si servicii individuale sau personale",
+      "var_C": "cantina, cresa, rampe/lifturi/signalistica pentru persoane cu dizabilitati, consiliere pentru un bun echilibru serviciu/familie",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "60.Cauzele pentru care oamenii absenteaza de la munca pot fi grupate in urmatoarele categorii:",
+      "var_A": "probleme personale, probleme medicale, lipsa interesului fata de munca, probleme neprevazute",
+      "var_B": "cauze familiale, cauze personale, cauze climatice, cauze medicale",
+      "var_C": "factori organizatorici, factori specifici postului, factori de ordin personal",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "61.Practicile organizatiei privind echilibrul munca-viata presupun:",
+      "var_A": "creearea unor conditii care sa-i sustina pe angajati sa aiba un echilibru intre timpul pentrecut la birou si timpul petrecut cu familia",
+      "var_B": "creearea unor conditii care sa-i sustina pe angajati sa aiba o viata in afara locului de munca",
+      "var_C": "creearea unor conditii care sa-i ajute pe angajati sa-si reconcilieze obligatiile profesionale cu raspunderile si interesele lor din afara ei, indeplinind astfel si obiectivele angajatorului, si pe cele personale",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "62.Beneficiile aduse de implementarea unor prolitici privind echilibrul munca-viata sunt:",
+      "var_A": "imbunatatirea echilibrului psihic al angajatilor, cresterea gradului de atasament al angajatilor fata de organizatie, atragerea unor angajati mai interesati de viata familiala, cresterea numarului de copii in randul angajatilor",
+      "var_B": "imbunatatirea randamentului noilor angajati, scaderea numarului de absente nemotivate, scaderea fluctuatiei de personal, imbunatatoirea angajamentului si moralului, cresterea productivitatii si calitatii muncii",
+      "var_C": "imbunatatirea relatiilor familiale ale angajatilor, imbunatatirea relatiilor de serviciu ale angajatilor, cresterea satisfactiei muncii, cresterea numarului de zile de concediu",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "63.Conform lui Kettley si Reilly (2003), un sistem informatizat de resurse umane este:",
+      "var_A": "o 'retea complet integrata de RU, folosita la prelucrarea datelor, stocarea informatiilor, furnizarea de servicii, crearea de baze de date, instrumente si operatiuni'",
+      "var_B": "un 'sistem de baze de date care contine date despre fiecare angajat, de la momentulrecrutarii pana la momentul iesirii acestuia din organizatie'",
+      "var_C": "o 'retea de aplicatii utilizate de departamentul de resurse umane pentru a tine evidenta angajatilor'",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "64.Conform IDS (2002), beneficiile aduse de un sistem informatizat de MRU sunt urmatoarele:",
+      "var_A": "cresterea cantitatii de date obtinute; scaderea numarului de angajati necesari in departamentul de RU; integrarea MRU cu celelalte sisteme informatizate utilizate in organizatie; scaderea volumului de munca al angajatilor din departamentul de RU",
+      "var_B": "cresterea acuratetei si consecventei datelor obtinute; cresterea accesului celor interesati la datele de RU; cresterea prestigiului functiunii de RU in cadrul organizatiei; optimizarea si standardizarea proceselor",
+      "var_C": "cresterea prestigiului departamentului de RU; scaderea timpului de procesare a datelor angajatilor, securizaarea datelor si restrictionarea accesului la acestea, a celor din afara departamentului de RU",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "65.Una dintre functiile indeplinite de un sistem informatizat de resurse umane este gestionarea datelor personale ale angajatilor referitoare la:",
+      "var_A": "starea civila si situatia familiala, studiile urmate si fostii angajatori, concedii medicale, de odihna si absente nemotivate de la munca",
+      "var_B": "starea civila si situatia familiala, istoric medicat, feedbackurile primite de la alti colegi si de la superiori, evidenta concediilor medicale",
+      "var_C": "evolutia lor profesionala, aptitudini si nivel de calificare, evidenta concediilor si a absentelor",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "66.Una din functiile indeplinite de un sistem informatizat de resurse umane este gestionarea datelor referitoare la:",
+      "var_A": "pozitiile ocupate de angajati, precum si resursele pe care le au la dispozitie, nivelul de salarizare si zilele de concediu",
+      "var_B": "posturile angajatilor, inclusiv clasa de incadrare, remunerarea si stimulentele, orele lucrate, locatii de lucru, fisa postului sau definirea rolului",
+      "var_C": "evolutia angajatilor in cadrul companiei, nivel de salarizare, evaluarile anuale, zilele de concediu si concediile medicale",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "67.Organizatiile mecaniciste:",
+      "var_A": "servesc de multi ani o piata instabila",
+      "var_B": "in plan inters, sunt extrem de precis structurate, cu politici de actiune centralizate",
+      "var_C": "au politici de actiune descentralizate, ranguri ierarhice mai putin rigide",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "68.Organizatiile organice",
+      "var_A": "impun o structura ierarhizata si relatii de comanda si control",
+      "var_B": "impun o structura aplatizata, relatii colegiale si sisteme de administrare flexibile",
+      "var_C": "prezinta un accent puternic pe administrare si garantie strict trasate intre departamente si functiuni",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "69.Scopurile principale ale tuturor organizatiilor sunt acelea:",
+      "var_A": "de a supravietui si de a se dezvolta",
+      "var_B": "de a crea o organigrama functionala si de a avea un profit economic",
+      "var_C": "de a furniza un singur fel de produse si servicii si de a se specializa",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "70.Strategia corporatista este un proces de luare a deciziilor in care organizatia:",
+      "var_A": "planifica viitorul pe termen lung",
+      "var_B": "isi stabileste obiective pe termen scurt",
+      "var_C": "formuleaza doar obiective pe termen mediu",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "71.Realizarea obiectivelor unei corporatii trebuie sa se desfasoare in limitele:",
+      "var_A": "unui management autoritar",
+      "var_B": "culturii lor organizationale",
+      "var_C": "politicilor de actiune ale organizatiei",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "72.Scopurile unei organizatii sunt de a supravietui si de a se dezvolta, iar pentru acest lucru, ea trebuie sa:",
+      "var_A": "continue sa furnizeze tipurile de bunuri si servicii pe care le cer cumparatorii",
+      "var_B": "renunte sa analizeze activitatile concurentilor",
+      "var_C": "tina sub observatie natura factorilor interni de presiune",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "73.Analiza SWOT este o tehnica de planificare strategica care se concentreaza pe:",
+      "var_A": "atuurile, slabiciunile, oportunitatile si amenintarile cu care se confrunta organizatia",
+      "var_B": "pe factorii de presiune externi",
+      "var_C": "pe cultura organizationala si factorii de presiune interni",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "74.Analiza PESTLE este o tehnica de planificare strategica care se concentreaza pe",
+      "var_A": "factorii de presiune interni",
+      "var_B": "factorii politici, economici, sociali, tehnologici, de munca si ecologici",
+      "var_C": "oportunitatile si amenintarile cu care se confrunta organizatia",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "75.Informatiile care deriva din desfasurarea analizelor SWOT si PESTLE alcatuiesc o baza pentru:",
+      "var_A": "a desemna cel mai bun angajat al anului",
+      "var_B": "a analiza trecutul culturii organizationale",
+      "var_C": "deciziile ce se iau referitor la viitorul organizatiei",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "76.Informatiile care deriva din desfasurarea analizelor SWOT si PESTLE ajuta:",
+      "var_A": "angajatii sa se dezvolte mai eficient si in timp scurt",
+      "var_B": "sa ascunda cat mai bine problemele ce se cer rezolvate",
+      "var_C": "organizatia sa formuleze politici noi de actiune, cu care sa raspunda la influentele legislatiei si la alte presiuni",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "77.Aria de control se refera la:",
+      "var_A": "numarul de angajati care intra sub controlul direct al unui manager",
+      "var_B": "legislatia muncii si alte acte normative",
+      "var_C": "mediul extern si concurentii organizatiei",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "78.Criticile aduse organizatiilor matriciale se refera la faptul ca:",
+      "var_A": "la locul de munca se invata doar concepte generale",
+      "var_B": "este frustrant sa lucrezi la doi sefi",
+      "var_C": "urmeaza sa inveticeva specific, doar prin sistemul de educatie nonformala",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "79. Vectorii care stimuleaza schimbarea organizationala sunt:",
+      "var_A": "valorile si brandul de angajator",
+      "var_B": "concurenta si clientii",
+      "var_C": "tehnologia, guvernarea politica si globalizarea",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "80. Fortele majore ale schimbarii cu efect pe termen lung sunt:",
+      "var_A": "stilul de comunicare si conducere al managerilor",
+      "var_B": "concurenta, exigentele clientilor si ritmul accelerat de uzura morala a tehnologiei",
+      "var_C": "mediul extern si clientii organizatiei",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "81. Restructurarea prin restrangere este denumita si:",
+      "var_A": "restructurarea la dimensiunea incorecta",
+      "var_B": "restructurarea la dimensiunea corecta",
+      "var_C": "restructurarea functionala",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "82. Golding (2004) vorbeste despre integrarea verticala ca despre un mijloc pentru:",
+      "var_A": "reducerea stresului in organizatie",
+      "var_B": "imbunatatirea performantei",
+      "var_C": "stabilirea unor politici de actiune pe termen lung",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "83. Restructurarea prin constrangere inseamna:",
+      "var_A": "reducerea numarului de angajati de la nivelurile manageriale pentru a reduce costurile",
+      "var_B": "reducerea numarului de angajati de la nivelurile operationale pentru o productivitate mai mare",
+      "var_C": "integrarea profesionala a angajatilor in organizatie",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "84. Aplatizarea inseamna:",
+      "var_A": "reducerea numarului de angajati de la nivelurile operationale pentru o productivitate mai mare",
+      "var_B": "o relatie explicita intre procesele si politicile interne de personal",
+      "var_C": "reducerea numarului de angajati de la nivelurile manageriale pentru a reduce costurile",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "85. Managementul efectiv al resurselor umane si al relatiilor cu angajatii este in primul rand responsabilitatea:",
+      "var_A": "managerilor de linie (operationali)",
+      "var_B": "managerilor financiari",
+      "var_C": "departamentului de salarizare",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "86. Planificarea fortei de munca este o strategie:",
+      "var_A": "de mentinere a personalului in organizatie",
+      "var_B": "de dobandire, utilizare, imbunatatire si pastrare a resurselor umane in organizatie",
+      "var_C": "de onboarding",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "87. Planificarea moderna a resurselor umane este un proces destinat:",
+      "var_A": "nonmanagerilor",
+      "var_B": "dezvoltarii unor politici de dezvoltare profesionala a angajatilor",
+      "var_C": "identificarii cerintelor curente si viitoare de resurse umane ale unei organizatii",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "88. Judecata manageriala, ca metoda de previzionare a cererii de resurse umane, are o maxima eficacitate in:",
+      "var_A": "organizatiile mici care au o structura relativ stabila",
+      "var_B": "organizatiile multinationale",
+      "var_C": "organizatiile matriciale de mari dimensiuni",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "89. Eficacitatea analizei de tendinta a indicatorilor, ca metoda de previzionare a cererii de resurse umane, depinde de:",
+      "var_A": "stabilitatea viitoare a relatiei dintre nivelul productivitatii si numarul de angajati",
+      "var_B": "previziunea fortei de munca",
+      "var_C": "continutul planului de afaceri",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "90. Abordarea pe baza studiului muncii are maxima eficacitate in departamentele administrative unde sarcinile sunt:",
+      "var_A": "deosebit de complexe",
+      "var_B": "repetitive",
+      "var_C": "in responsabilitatea managerului de linie",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "91. Indicele fluctuatiei personalului este:",
+      "var_A": "numarul celor angajati intr-un an/numarul maxim de angajati x 100",
+      "var_B": "numarul celor plecati intr-un an/numarul mediu de angajati x 100",
+      "var_C": "numarul angajatilor aflati in concediu/numarul maxim de angajati x 100",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "92. Indicele de stabilitate a fortei de munca (ISFM) este",
+      "var_A": "numarul angajatilor aflati in concediu/numarul maxim de angajati x 100",
+      "var_B": "numarul angajatilor cu peste un an vechime/numarul angajatilor existenti in urma cu un an x 100",
+      "var_C": "numarul celor plecati intr-un an/numarul celor sositi intr-un an x 100",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "93. Atunci cand un manager de linie identifica un post liber, el va trebui sa completeze un formular numit:",
+      "var_A": "analiza SWOT pentru activitatea de recrutare",
+      "var_B": "autorizarea de recrutare",
+      "var_C": "deficit de personal calificat",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "94. Avantajele recrutarii electonice sunt:",
+      "var_A": "ciclul de recrutare dureaza mai mult",
+      "var_B": "se poate ajunge la o gama restransa de aplicanti",
+      "var_C": "se pot reduce costurile, daca recrutarea electronica este folosita in locul altor metode mai scumpe",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "95. Factorii care pot sa inhibe sau sa faciliteze rata de succes a recrutarii dintr-o organizatie sunt:",
+      "var_A": "diversitatea, deficitul de personal calificat si somajul",
+      "var_B": "cultura organizationala si climatul psihosocial din organizatie",
+      "var_C": "stilul de conducere si comunicarea in organizatie",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "96. Cei care organizeaza si participa efectiv in procesul de selectie intr-o organizatie sunt:",
+      "var_A": "nonmanagerii",
+      "var_B": "practicienii de resurse umane si managerii de linie",
+      "var_C": "managerii superiori",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "97. Managerii superiori:",
+      "var_A": "formuleaza politicile de selectie, elaboreaza procedurile si faciliteaza instruirea profesionala pentru cei implicati",
+      "var_B": "organizeaza efectiv evenimentele de selectie",
+      "var_C": "participa pe tot parcursul procesului, pana la luarea deciziei finale",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "98. Problemele esentiale care sporesc importanta deciziei de selectie sunt:",
+      "var_A": "managementul personalului",
+      "var_B": "strategia corporatista",
+      "var_C": "schimbarile demografice, cererea pentru o forta de munca flexibila, policalificata si accentul pus pe strategia corporatista si managementul personalului",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "99. Selectia strategica este:",
+      "var_A": "un sistem care coreleaza procesele si rezultatele selectiei cu interesele individuale",
+      "var_B": "o politica care nu cauta sa creeze o corespondenta intre strategiile de afaceri si fluxul de personal",
+      "var_C": "un sistem care coreleaza procesele si rezultatele selectiei cu scopurile organizatiei",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "100. Testele de selectie:",
+      "var_A": "sunt concepute aleatoriu de catre practicienii de resurse umane",
+      "var_B": "sunt proiectate de psihologi, care au calitatea de experti in domeniu",
+      "var_C": "masoara performanta angajatilor in termenii comportamentali, a ceea ce face individul efectiv",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "101. Avantajul utilizarii tehnicilor de testare psihometrica:",
+      "var_A": "pot fi concepute de orice inspector de resurse umane",
+      "var_B": "masoara doar calitatea muncii prestate de un angajat",
+      "var_C": "produce dovezi obiective si care pot fi coroborate cu alte metode",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "102. Un centru de evaluare:",
+      "var_A": "este un grup restrans de participanti care parcurg sub observatie o serie de teste si de exercitii, in ideea de a evalua aptitudinile si competentele, gradul de adecvare pentru anumite roluri",
+      "var_B": "este un grup mare de participanti care parcurg o serie de teste scrise si raspund la intrebarile orale",
+      "var_C": "se refera la evaluarea periodica a performantelor si promovarea angajatilor pe un post superior",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "103. In cadrul interviurilor structurate:",
+      "var_A": "interactiunea este mai putin standardizata",
+      "var_B": "raspunsurile sunt notate de intervievator pe baza unor scale de apreciere pre-formatate",
+      "var_C": "candidatilor li se adreseaza intrebari diferite",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "104. Un manager de linie (operational) este un angajat cu rang superior:",
+      "var_A": "care are responsabilitatea de a se asigura ca toate sarcinile sunt efectuate la timp si conform standardelor stabilite",
+      "var_B": "care analizeaza ce ati invatat in trecut si stabileste obiective pe termen scurt",
+      "var_C": "care analizeaza cultura si comportamentul organizational",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "105. Un sistem informational computerizat de resurse umane:",
+      "var_A": "asigura o baza de incredere pentru luarea deciziilor strategice",
+      "var_B": "furnizeaza partial informatii atunci cand trebuie sa se ia decizii legate de viitorul unui angajat",
+      "var_C": "nu sprijina intotdeauna serviciile furnizate managerilor de linie",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "106. In interiorul organizatiilor, factorii care au influentat si vor continua sa influenteze schimbarea, mai ales in lumina efectelor produse asupra resurselor umane sunt:",
+      "var_A": "stilul de conducere si comunicare bottom-up",
+      "var_B": "legile noi, progresele tehnologice permanente si managementul resurselor umane",
+      "var_C": "brandul de angajator si viziunea organizatiei",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "107. Managementul resurselor umane de tip tehnicist inseamna: ",
+      "var_A": "primatul necesitatilor economice, accentul punandu-se pe aspectele cantitative si mai putin pe nevoile resurselor umane",
+      "var_B": "a recunoaste diferentele dintre oameni si a-i pune in valoare, respecandu-le obiectivele personale",
+      "var_C": "a recunoaste diversitatea in planul valorilor organizationale",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "108. Managementul resurselor umane de tip umanist se caracterizeaza:",
+      "var_A": "printr-o forta de munca flexibila, ale carei talente sunt stimulate si dezvoltate, contribuind la realizarea avantajului competitiv",
+      "var_B": "printr-un accent pus pe efectivele de oameni si prea putina atentie acordata nevoilor lor",
+      "var_C": "prin schimbarea naturii relatiei dintre manager si angajat",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "109. Inductia angajatilor este un proces care are loc:",
+      "var_A": "atunci cand angajatii decid sa paraseasca organizatia",
+      "var_B": "atunci cand angajatii se alatura organizatiei",
+      "var_C": "atunci cand angajatii participa la un curs de dezvoltare profesionala",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "110. Angajatii sunt mai susceptibili sa ramana intr-o organizatie daca cred ca:",
+      "var_A": "managerii lor manifesta un sistem de conducere autoritar",
+      "var_B": "managerii lor manifesta interes pentru ei si daca primesc feedback periodic",
+      "var_C": "managerii lor manifesta un sistem de conducere permisiv",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "111. Planul de retentie a personalului include:",
+      "var_A": "salarizarea si beneficiile; recrutarea si selectia; formarea-instruirea si dezvoltare; proiectarea posturilor si managementului",
+      "var_B": "doar procesul de onboarding, salarizarea si beneficiile",
+      "var_C": "doar formarea-instruirea si dezvoltarea; proiectarea posturilor si managementul",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "112. Scopul inductiei angajatilor este:",
+      "var_A": "de a-l face pe angajat sa devina eficace pe postul ocupat cat mai repede",
+      "var_B": "de a creste rata fluctuatiei personalului in organizatie",
+      "var_C": "sa promoveze in cariera in cel mai scurt timp",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "113. De ce dezvoltarea competitiei este un factor critic in zilele noastre?",
+      "var_A": "pentru ca asa o numesc precursorii managementului stiintific",
+      "var_B": "pentru ca depinde de cadrul legislativ",
+      "var_C": "deoarece capacitatea noastra de a obtine o munca remunerata depinde de el",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "114. Invatarea sistematica are loc atunci cand:",
+      "var_A": "urmeaza sa se invete concepte generale, prin sistemul de educatie informala",
+      "var_B": "angajatul este autodidact sau invata de la colegii de departament",
+      "var_C": "urmeaza sa se invete ceva specific, prin sistemul de educatie formala",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "115. Intr-o situatie de invatare organizata, cum ar fi un curs de formare profesionala, volumul de invatare care are loc este determinat de:",
+      "var_A": "politica resurselor umane din organizatie",
+      "var_B": "competenta formatorului si suportul teoretic",
+      "var_C": "caracteristicile personale ale celui care invata, eficacitatea celui care preda si situatia fizica in care se petrece procesul de predare",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "116. Pentru a fi eficace, instructorii - trainerii - trebuie sa posede cateva calitati specifice. Acestia trebuie:",
+      "var_A": "sa fie autoritari si directici",
+      "var_B": "sa fie experti in domeniu si cu cercetari publicate in revistele de specialitate",
+      "var_C": "sa fie bine pregatiti in domeniul lor, sa aiba credibilitate si sa aiba capacitatea de a transfera si altora cunostintele si aptitudinile",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "117. Acolo unde invatarea rezulta dintr-o instruire cu scop specific, cel mai important aspect al programelor de instruire este:",
+      "var_A": "angajatul urmeaza sa invete concepte generale, prin sistemul de educatie informala",
+      "var_B": "angajatul este autodidact sau invata de la colegii de departament",
+      "var_C": "transferul invatarii - din contextul programelor de instruire in cel al locului de munca",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "118. Factorii organizationali care influenteaza motivatia se refera la:",
+      "var_A": "mediul de munca, de exemplu stilul de comunicare si de conducere al managerilor etc.",
+      "var_B": "legislatia muncii si alte acte normative",
+      "var_C": "mediul extern si clientii organizatiei",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "119. F.W. Taylor (1947) a propus o modalitate practica de imbunatatire a:",
+      "var_A": "cursurilor de formare profesionala organizate de catre angajatori",
+      "var_B": "productivitatii muncii lucratorilor manuali, folosind banii ca stimulent",
+      "var_C": "integrarii profesionale a angajatilor in organizatie",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "120. 'Aplicarea metodelor stiintifice in activitatea de management, prin utilizarea unor masuratori ale muncii ca baza pentru planificarea productiei', este specifica:",
+      "var_A": "teoriei asteptarilor",
+      "var_B": "teoriei Y",
+      "var_C": "teoriei managementului stiintific",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "121. Corelarea remunerarii muncitorilor cu performanta acestora este speficica:",
+      "var_A": "teoriei X",
+      "var_B": "teoriei managementului stiintific",
+      "var_C": "teoriei ancorelor carierei",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "122. Cel care le-a aratat muncitorilor cum sa-si foloseasca in cel mai bun mod forta fizica si indemanarea, pentru a-si spori productivitatea a fost:",
+      "var_A": "F.W. Taylor",
+      "var_B": "A. Maslow",
+      "var_C": "F.W. Herzberg",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "123. Limita teoriei managemantului stiintific este legata de premisa gresita privind natura umana:",
+      "var_A": "Omul - vazut doar ca o fiinta motivata economic",
+      "var_B": "Omul - motivat doar de climatul psihosocial din organizatie",
+      "var_C": "Omul - motivat doar de recompensele nonfinanciare",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "124. 'Realizarea cooperarii intre conducerea manageriala si angajati si divizarea responsabilitatii intre aceste doua categorii de personal' este specifica:",
+      "var_A": "teoriei asteptarilor",
+      "var_B": "teoriei lui Maslow",
+      "var_C": "teoriei managementului stiintific",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "125. Nevoile de ordin superior din perspectiva lui Abraham Maslow sunt:",
+      "var_A": "nevoia de stima si autorealizare",
+      "var_B": "nevoia de securitate",
+      "var_C": "nevoile biologice si de apartenenta",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "126. Nevoile de ordin inferior din perspectiva lui Abraham Maslow sunt:",
+      "var_A": "nevoile de dragoste si stima",
+      "var_B": "nevoile bazale, de siguranta si de apartenenta",
+      "var_C": "nevoile de autorealizare",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "127. Abraham Maslow a afirmat ca noi, oamenii:",
+      "var_A": "suntem predispusi la conflicte si la delasare in munca",
+      "var_B": "nu avem nevoie decat de autorealizare",
+      "var_C": "inaintam progresiv spre varful ierarhiei",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "128. Factorii de igiena din perspectiva lui F.W. Herzberg sunt:",
+      "var_A": "avansarea in cariera si recunoasterea meritelor",
+      "var_B": "munca in sine si responsabilitatea",
+      "var_C": "conditiile de munca si politica de actiune a companiei",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "129. Factorii de igiena din perspectiva lui F.W. Herzberg (1957) sunt:",
+      "var_A": "responsabilitatea si avansarea in cariera",
+      "var_B": "relatiile interpersonale - supervizarea si politica de administrare a companiei",
+      "var_C": "munca in sine si recunoasterea meritelor",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "130. Cine a propus o teorie a motivatiei progresive?",
+      "var_A": "Nicolae Manolescu",
+      "var_B": "Michael Armstrong",
+      "var_C": "Abraham Maslow",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "131. Caracteristicile postului, in conceptia lui Hackman si Oldham (1980), sunt:",
+      "var_A": "sarcinile repetitive, realizarea unor activitati secventiale, lipsa feedbackul",
+      "var_B": "varietatea aptitudinilor, identitatea si semnificatia sarcinii, autonomia si feedbackul",
+      "var_C": "varietatea competentelor, stilul de conducere democratic si recunoasterea meritelor",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "132. 'Managerii adepti ai teoriei X'considera ca:",
+      "var_A": "angajatii au capacitatea de autocontrol si de a inova",
+      "var_B": "angajatii trebuie supravegheati atent si amenintati",
+      "var_C": "angajatii considera munca la fel de importanta ca relaxarea si odihna",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "133. 'Managerii adepti ai teoriei Y' considera ca angajatii:",
+      "var_A": "sunt delasatori si au nevoie de indemnuri energice in activitatea lor",
+      "var_B": "sunt lipsiti de ambitie si, ca urmare, trebuie supravegheati atent",
+      "var_C": "aunt 'oameni cu initiativa'si nu trebuie constransi ca sa munceasca",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "134. Teoria asteptarilor (Vroom, 1964) are la baza ideea ca:",
+      "var_A": "pe masura ce evoluam, ajungem sa intelegem ca propriul comportament are consecinte",
+      "var_B": "exista o paralela intre cele 5 categorii de nevoi ale lui A. Maslow si cele 3 categorii propuse de Vroom",
+      "var_C": "oamenii nu isi aleg comportamentul in functie de gradul in care ei valorizeaza rezultatul asteptat",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "135. Teoriile de continut ale motivatiei au incercat sa demonstreze ca:",
+      "var_A": "satisfactia muncii conduce la o performanta mai buna",
+      "var_B": "performanta estea cea care produce satisfactie",
+      "var_C": "desi exista o relatie intre motivatie, satisfactie si performanta,toate cele trei variabile sunt separate",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "136. Adeptii teoriilor de proces afirma ca:",
+      "var_A": "sunt importanti factorii intrinseci muncii pe post",
+      "var_B": "oamenii aleg sa se comporte in anumite moduri pentru ca se asteapta sa obtina rezultatele dorite",
+      "var_C": "satisfactia muncii conduce la o performanta mai buna",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "137. Cele trei scopuri principale ale evaluarii sunt:",
+      "var_A": "performanta, plata si promovarea",
+      "var_B": "integrarea, dezvoltarea si motivarea",
+      "var_C": "acordarea unor beneficii nonfinanciare, implicarea in proiecte si performanta",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "138. Rezultatele evaluarii performantelor pot fi folosite in scopul:",
+      "var_A": "demotivarii angajatilor",
+      "var_B": "reducerii standardelor de performanta existente in organizatie",
+      "var_C": "intaririi standardelor de performanta din organizatie si convenirea standardelor viitoare",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "139. Metoda BARS:",
+      "var_A": "nu este costisitoare si nici consumatoare de timp",
+      "var_B": "masoara performanta angajatilor in termenii comportamentului, a ceea ce face individul efectiv",
+      "var_C": "accentueaza subiectivitatea managerilor si a angajatilor in evaluarea performantei",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "140. Feedbackul circular este:",
+      "var_A": "evaluarea prin metoda BARS",
+      "var_B": "o metoda traditionala de evaluare a managerilor",
+      "var_C": "evaluarea din mai multe surse",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "141. Organizatiile folosesc feedbackul circular pentru:",
+      "var_A": "evaluarea performantei, managementul carierei si repartizarea resurselor umane",
+      "var_B": "motivarea resurselor umane si acordarea unor premii angajatilor performanti",
+      "var_C": "evaluarea performantei si promovarii angajatilor",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "142. Planul de dezvoltare personala este:",
+      "var_A": "un proces dinamic care descrie modul cum va propuneti sa avansati in cariera",
+      "var_B": "o schita care descrie modul cum va propuneti sa invatati si sa va perfectionati",
+      "var_C": "o analiza a situatiei curente si a nevoilor de dezvoltare",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "143. Etapele planificarii dezvoltarii personale sunt:",
+      "var_A": "analiza situatiei curente, stabilirea obiectivelor si intocmirea unui plan de actiune",
+      "var_B": "analiza a ceea ce ati invatat in trecut si stabilirea unor obiective pe termen scurt",
+      "var_C": "analiza a ceea ce va doriti sa invatati in viitor si stabilirea unor obiective pe termen lung",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "144.Factorii de presiunecare influenteaza formularea strategiei de recompensare intr-o organizatie sunt:",
+      "var_A": "stilul de comunicare pe verticala si orizontala, stilul de conducere si costurile vietii",
+      "var_B": "pretentiile patronatelor, stilul de conducere si cultura organizationala",
+      "var_C": "capacitatea financiara a organizatiei, legislatia, evaluarea performantei angajatilor si nivelurile de productivitate",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "145. Scopul auditului de sanatate si securitate este:",
+      "var_A": "de a verifica daca organizatia are un responsabil in domeniul sanatatii",
+      "var_B": "sa identifice problemele si directiile de imbunatatire, sa verifice daca se iau masurile cuvenite pentru imbunatatirea lucrurilor",
+      "var_C": "sa includa doar aspectele practice si cantitative, cum ar fi implementarea politicilor in materie de sanatate si securitate",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "146. Diversitatea organizationala se refera la:",
+      "var_A": "a-i pretui pe toti ca indivizi, cu exceptia angajatilor, cumparatorilor si clientilor",
+      "var_B": "a recunoaste diferentele dintre oameni si a-i pune in valoare, respectandu-le deosebirile si nevoile diferite",
+      "var_C": "a recunoaste doar diversitatea in planul valorilor organizationale",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "147. Echilibrul munca-viata personala este un concept fluid deoarece:",
+      "var_A": "timpul si atentia pe care le acordati unor aspecte diferite din viata voastra variaza de la o zi la alta",
+      "var_B": "atentia este acordata mai mult vietii personale in detrimentul vietii profesionale",
+      "var_C": "timpul si atentia sunt acordate mai mult vietii profesionale in defavoarea vietii personale",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "148.In cercetarea sociala, gruparile logice de atribute se numesc:",
+      "var_A": "variabile",
+      "var_B": "concepte",
+      "var_C": "caracteristici",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "149. O variabila cu valori care nu sunt problematizate intr-o analiza, dar sunt considerate ca fiind date, reprezinta o:",
+      "var_A": "variabila independenta",
+      "var_B": "variabila dependenta",
+      "var_C": "variabila simpla",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "150. In cercetarea sociala, explicatia prin care se urmareste identificarea unor factori cauzali care au un impact general asupra unei clase de conditii sau evenimente este de tip:",
+      "var_A": "idiografic",
+      "var_B": "nomotetic",
+      "var_C": "idiosincratic",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "151. Rationamentul inductiv se bazeaza pe modelul logic in care:",
+      "var_A": "asteptarile specificenale ipotezelor sunt dezvoltate pe baza principiilor generale",
+      "var_B": "principiile generale sunt dezvoltate plecand de la observatii generale",
+      "var_C": "principiile generale sunt dezvoltate plecand de la observatii specifice",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "152. Care dintre urmatoarele elemente constituie un dezavantaj al datelor cantitative?",
+      "var_A": "datele cantitative fac mai dificila agregarea, compararea si rezumarea datelor",
+      "var_B": "datele cantitative duc la o potentiala pierdere a intelesului cuvintelor",
+      "var_C": "datele cantitative fac descrieri pur verbale",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "153. Formularea unor concluzii eronate despre indivizi doar pe baza observatiilor asupra grupurilor se numeste:",
+      "var_A": "eroare ecologica",
+      "var_B": "reductionism",
+      "var_C": "eroare de interpretare",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "154. Reductionalismul consta in:",
+      "var_A": "formularea unor concluzii eronate despre indivizi doar pe baza observatiilor asupra grupurilor",
+      "var_B": "o limitare a tipurilor de concepte ce trebuie luate in considerare ca relevante pentru fenomenul studiat",
+      "var_C": "presupunerea ca ceva cunoscut in legatura cu o unitate ecologica spune ceva despre indivizii care formeaza acea unitate",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "155. Studiul care realizeaza observatii asupra unui fenomen la un anumit moment in timp este de tip:",
+      "var_A": "longitudinal",
+      "var_B": "tendinta",
+      "var_C": "transversal",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "156.Studiul de tip panel:",
+      "var_A": "colecteaza date de la cohorte, in anumite momente din timp, dar membrii corhotei pot fi diferiti la fiecare set de observatii",
+      "var_B": "colecteaza date de moment cu privire la un fenomen social",
+      "var_C": "B",
+      "var_corecta": ""
+    },
+    {
+      "intrebare": "157. Atunci cand un cercetator analizeaza un aspect nou sau cand insusi subiectul studiului este relativ nou, este vorba despre un studiu care are ca obiectiv principal:",
+      "var_A": "descrierea",
+      "var_B": "explorarea",
+      "var_C": "explicarea",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "158. In cercetarea sociala, cele mai tipice unitati de analiza sunt:",
+      "var_A": "indivizii",
+      "var_B": "grupurile",
+      "var_C": "organizatiile",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "159. In elaborarea unui experiment, pretestarea consta in:",
+      "var_A": "masurarea variabilei dependente printre subiecti",
+      "var_B": "masurarea variabilei independente printre subiecti",
+      "var_C": "remasurarea variabilei dependente printre subiecti, dupa ce au fost expusi variabilei independente",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "160.In cazul unui experiment, grupul de subiecti carora li se aplica un stimul experimental se numeste:",
+      "var_A": "grup experimental",
+      "var_B": "grup de control",
+      "var_C": "grup de observare",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "161.Experimentul in care nici subiectii, nici realizatorii experimentului nu stiu care este grupul experimental si care este grupul de control poarta denumirea de:",
+      "var_A": "experiment placebo",
+      "var_B": "experiment dubu orb",
+      "var_C": "experiment social",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "162.In cazul experimentului, tehnica de atribuire aleatorie a subiectilor experimentali unui grup experimental, respectiv de control, se numeste:",
+      "var_A": "potrivire",
+      "var_B": "randomizare",
+      "var_C": "esantionare simpla",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "163.Atunci cand concluziile trase din rezultatele experimentului nu pot fi generalizate in lumea reala, discutam despre:",
+      "var_A": "invalitidate externa",
+      "var_B": "invaliditate interna",
+      "var_C": "experiment nereusit",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "164.Care dintre urmatoarele elemente constituie un avantaj al experimentului de laborator:",
+      "var_A": "arificialitatea: procesele sociale care se petrec intr-un mediu de laborator ar putea sa nu apara in mediul social natural",
+      "var_B": "izolarea impactului in timp al variabilelor experimentale",
+      "var_C": "imposibilitatea de a reface un experiment dat de mai multe ori, pe grupuri diferite de subiecti",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "165.Atunci cand cercetatorul mentine o distanta fata de punctele de vedere studiate pentru a obtine un grad mai mare de obiectivitate, aplica o:",
+      "var_A": "perspectiva emica",
+      "var_B": "perspectiva etica",
+      "var_C": "perspectiva echidistanta",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "166.In cercetarea calitativa, abordarea inductiva prin care sunt generate teorii din analiza modelelor, a temelor si a categoriilor comune descoperite in datele obtinute in timpul observatiilor se numeste:",
+      "var_A": "etnometodologie",
+      "var_B": "teorie intemeiata (grounded theory)",
+      "var_C": "naturalism",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "167.Studiul de caz consta in:",
+      "var_A": "tehnica prin care observatiile de teren sunt folosite pentru a descoperi erori si a imbunatati teoriile sociale existente",
+      "var_B": "examinarea experientelor personale ale indivizilor pentru a dezvalui relatiile de putere si caracteristicile institutiilor",
+      "var_C": "examinarea in profunzime a unei singure manifestari a unui fenomen social",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "168.Cercetarea actiunii participative consta in:",
+      "var_A": "abordarea cercetarii sociale in care oamenilor care sunt studiati li se da controlul asupra scopului si procedurilor cercetarii",
+      "var_B": "constituirea de echipe mixte de cercetatori in vederea studierii unui fenomen social",
+      "var_C": "implicarea activa a cercetatorilor in procesul de colectare a datelor",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "169.Care dintre urmatoarele elemente reprezinta un avantaj al focus-grupurilor:",
+      "var_A": "focus-grupurile permit cercetatorului sa aiba un control la fel de mare ca in interviurile individuale",
+      "var_B": "focus-grupurile au un grad mare de validitate",
+      "var_C": "datele obtinute prin focus-grupuri sunt usor de analizat",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "170.Spre deosebire de sondaje de opinie si experimente, datele obtinute prin cercetarea calitativa:",
+      "var_A": "au mai multa fidelitate, dar mai putina validitate",
+      "var_B": "au mai multa validitate, dar mai putina fidelitate",
+      "var_C": "sunt la fel in ceea ce priveste validitatea si fidelitatea",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "171.Care dintre urmatoarele aspecte nu este specific unui interviu calitativ:",
+      "var_A": "designul interviurilor calitative este flexibil si repetitiv",
+      "var_B": "interviul calitativ utilizeaza preponderent intrebari standardizate",
+      "var_C": "operatorul de interviu are un plan general, care acopera temele care trebuie studiate",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "172.Care dintre urmatoarele metode sunt specifice cercetarii discrete:",
+      "var_A": "analiza de continut, analiza statisticilor existente, cercetarea istorica si comparata",
+      "var_B": "analiza de continut, analiza statisticilor existente, experimentul",
+      "var_C": "analiza de continut, analiza statisticilor existente, cercetarea istorica si comparata, observatia",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "173.In analiza de continut, procesul de transformare a datelor neprelucrate intr-o forma standardizata se numeste:",
+      "var_A": "operationalizare",
+      "var_B": "codare",
+      "var_C": "interpretare",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "174.Care dintre urmatoarele elemente constituie un dezavantaj al analizei de continut:",
+      "var_A": "este mai dificil de repetat studiul prin analiza de continut decat prin alte metode",
+      "var_B": "analiza de continut nu permite corectarea erorilor",
+      "var_C": "analiza de continut se limiteaza la examinarea unor intrebari inregistrate (orale/scrise/grafice)",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "175.In analiza de continut, atunci cand este analizat intelesul de baza al comunicarii, se realizeaza o codare a:",
+      "var_A": "continutului manifest",
+      "var_B": "continutului latent",
+      "var_C": "continutului explicit",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "176.Analiza calitativa a datelor consta in:",
+      "var_A": "examinarea si interpretarea numerica a observatiilor cu scopul de a descoperi semnificatii fundamentale si tiparele de relatii",
+      "var_B": "examinarea si interpretarea nonnumerica a observatiilor cu scopul de a descoperi semnificatii fundamentale si tiparele de relatii",
+      "var_C": "examinarea si interpretarea numerica si nonnumerica a observatiilor cu scopul de a descoperi semnificatii fundamentale si tiparele de relatii",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "177.In analiza calitativa a datelor, atunci cand se realizeaza o analiza care incearca sa inteleaga un caz sau mai multe cazuri prin examinarea detaliata a fiecaruia, este vorba de o:",
+      "var_A": "analiza orientata spre caz",
+      "var_B": "o analiza multi-caz",
+      "var_C": "analiza orientata pe variabila",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "178.In procesul de codare, clasificarea si etichetarea initiala a conceptelor in analiza calitativa poarta denumirea de:",
+      "var_A": "codare deschisa",
+      "var_B": "codare axiala",
+      "var_C": "codare selectiva",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "179.In procesul de codare a datelor (metoda teoriei intemeiate), tehnica adnotarii utilizeaza urmatoarele tipuri de relatie:",
+      "var_A": "notite teoretice, notite operationale, notite conceptuale",
+      "var_B": "notite de cod, notite teoretice, notite generale",
+      "var_C": "notite de cod, notite teoretice, notite operationale",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "180.In tehnica adnotarii (metoda teoriei intemeiate), notitele operationale se ocupa de:",
+      "var_A": "problemele metodologice; circumstantele de colectare a datelor/sugerarea colectarii unor date suplimentare",
+      "var_B": "identificarea etichetelor codurilor si semnificatiilor lor",
+      "var_C": "reflectii asupra dimensiunilor si intelesurilor profunde ale conceptelor, relatii intre concepte, afirmatii teoretice s.a.",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "181.Normele etice privind participarea voluntara si prevenirea prejudicierii participantilor au fost tot mai mult incluse formal in conceptul de:",
+      "var_A": "metodologia cercetarii",
+      "var_B": "etica si politica cercetarii sociale",
+      "var_C": "consimtamant informat",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "182.Un proiect de cercetare garanteaza anonimatul atunci cand:",
+      "var_A": "cercetatorul- nu doar cei care citesc despre acea cercetare- nu poate corela un raspuns dat cu un anumit respondent",
+      "var_B": "cercetatorul promite sa nu divulge informatii pesronale despre subiecti",
+      "var_C": "cercetatorul poate identifica persoana care da raspunsurile, insa promite sa nu o dezvaluie",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "183.Un proiect de cercetare garanteaza confidentialitatea atunci cand:",
+      "var_A": "nici macar cercetatorul nu poate identifica informatii specifice despre indivizii pe care ii descrie",
+      "var_B": "cercetatorul poate identifica persoana care da raspunsurile, insa promite sa nu o dezvaluie",
+      "var_C": "cercetatorul- nu doar cei care citesc despre acea cercetare- nu poate corela un raspuns dat cu un anumit respondent",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "184.Sub ce denumire mai este cunoscuta intervievarea subiectilor pentru a cunoaste experienta participarii lor intr-un proiect de cercetre (spre exemplu, dupa un experiment):",
+      "var_A": "analiza si raportarea",
+      "var_B": "obtinerea consimtamantului informat",
+      "var_C": "interogarea sumara",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "185.Care dintre urmatoarele clase de lucruri pe care cercetatorii le masoara, necesita observatii relativ mai subtile, complexe sau indirecte:",
+      "var_A": "constructele",
+      "var_B": "lucrurile observabile direct",
+      "var_C": "lucrurile observabile indirect",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "186.Ce denumire poarta procesul prin intermediul caruia specificam intelesul anumitor termeni din cadrul cercetarii:",
+      "var_A": "conceptualizare",
+      "var_B": "operationalizare",
+      "var_C": "masurare",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "187.Definitia atribuita unui termen fara pretentia ca definitia reprezinta o entitate reala poarta denumirea de:",
+      "var_A": "definitie nominala",
+      "var_B": "definitie operationala",
+      "var_C": "definitie reala",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "188.Definitia care precizeaza cum poate fi masurat un concept - adica operatiile care trebuie urmate, poarta denumirea de:",
+      "var_A": "definitie nominala",
+      "var_B": "definitie operationala",
+      "var_C": "defintie reala",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "189.Ce reprezinta operationalizarea in cadrul unei cercetari:",
+      "var_A": "rafinarea si specificarea conceptelor abstracte",
+      "var_B": "dezvoltarea unor proceduri (operatiuni) de cercetare specifice care vor rezulta in observatii empirice reprezentand acele concepte in lumea reala",
+      "var_C": "procesul prin intermediul caruia specificam intelesul anumitor termeni din cadrul cercetarii",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "190.Variabilele ale caror atribute nu au decat caracteristici de excluziune reciproca si de exhaustivitate sunt:",
+      "var_A": "masuri ordinale",
+      "var_B": "masuri nominale",
+      "var_C": "masuri de raport",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "191.Variabilele cu atribute pe care le putem ordona ierarhic din punct de vedere logic sunt:",
+      "var_A": "masuri ordinale",
+      "var_B": "masuri nominale",
+      "var_C": "masuri de raport",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "192.Sub ce denumire poate fi regasita acea calitate a unei metode de masurare care sugereaza ca aceleasi date ar fi colectate in observatii repetate ale aceluiasi fenomen:",
+      "var_A": "fidelitatea",
+      "var_B": "precizia",
+      "var_C": "validitatea",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "193.In mod conventional, validitatea se refera la:",
+      "var_A": "calitatea unei metode de masurare care sugereaza ca aceleasi date ar fi colectate in observatii repetate ale aceluiasi fenomen",
+      "var_B": "masuratori care pot fi facute cu grade variate de precizie",
+      "var_C": "gradul in care o masura empirica reflecta in mod adecvat semnificatia reala a unui concept luat in considerare",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "194.Sub ce denumire poate fi regasita esantionarea in care orice tehnica in care esantioanele sunt selectate altfel decat pe baza teoriei probabilitatilor:",
+      "var_A": "esantionare nonprobabilistica",
+      "var_B": "esantionarea aleatorie simpla",
+      "var_C": "esantionare probabilistica",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "195.Ce denumire poarta tipul de esantionare in care selectam un esantion pe baza cunoasterii unei populatii, a elementelor sale si pe baza scopului studiului:",
+      "var_A": "esantionare pe cote",
+      "var_B": "esantionare bazata pe un scop predefinit",
+      "var_C": "esantionare in bulgare de zapada",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "196.Care dintre urmatoarele tehnici este specifica esantionarii nonprobabilistice:",
+      "var_A": "esantionarea pe cote",
+      "var_B": "esantionarea aleatorie simpla",
+      "var_C": "esantionrea sistemica",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "197.Ce denumire poarta tipul de esantionare in care cercetatorul aduna datele de la cativa membri ai populatiei-tinta pe care ii poate localiza, apoi le cere acestora sa ofere informatii necesare pentru a gasi alti membri ai aceleiasi populatii, pe care se intampla sa-i cunoasca:",
+      "var_A": "esantionarea pe cote",
+      "var_B": "esantionarea in bulgare de zapada",
+      "var_C": "esantionarea bazata pe un scop predefinit",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "198.Tipul de esantionare probabilistica in care fiecare a k-a unitate dintr-o lista selectata pentru a fi inclusa in esantion - de exemplu, fiecare al 25-lea student din restul studentilor, poarta denumirea de:",
+      "var_A": "esantionare pe cote",
+      "var_B": "esantionare aleatorie simpla",
+      "var_C": "esantionare sistematica",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "199.Care este denumirea instrumentului special conceput pentru a extrage informatiile utile pentru analiza, in cazul sondajelor de opinie publica:",
+      "var_A": "ghid de interviu",
+      "var_B": "lista de intrebari",
+      "var_C": "chestionar",
+      "var_corecta": "c"
+    },
+    {
+      "intrebare": "200.In cazul intrebarilor inchise, respondentul este rugat sa:",
+      "var_A": "aleaga un raspuns dintr-o lista pusa la dispozitie de cercetator",
+      "var_B": "dea propriul raspuns la intrebare",
+      "var_C": "aleaga un raspuns dintr-o lista pusa la dispozitie de cercetator, avand in acelasi timp libertatea de a da propriul raspuns la o intrebare",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "201.Sub ce denumire sunt cunoscute intrebarile prin care i se cere respondentului sa dea propriul raspuns la o intrebare:",
+      "var_A": "intrebare inchisa",
+      "var_B": "intrebare deschisa",
+      "var_C": "intrebare dependenta",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "202.O intrebare de sondaj adresata doar anumitor respondenti in functie de raspunsurile lor la alte intrebari este o intrebare:",
+      "var_A": "inchisa",
+      "var_B": "dependenta",
+      "var_C": "matrice",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "203.Ce denumire poarta metoda principala de aplicare a chestionarelor unui esantion de respondenti, in care respondentii sunt rugati sa le completeze chiar ei:",
+      "var_A": "chestionare autoadministrate",
+      "var_B": "chestionare aplicate de operatori de interviu in intalniri fata in fata",
+      "var_C": "chestionare aplicate prin telefon",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "204.Ce tip de analiza implica descrierea unui caz din perspectiva unei singure variabile- mai precis, distributia atributelor pe care acestea le cuprinde:",
+      "var_A": "analiza univariata",
+      "var_B": "analiza bivariata",
+      "var_C": "analiza multivariata",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "205.Indicatorul reprezentand cel mai des observata valoare sau atribut este:",
+      "var_A": "mediana",
+      "var_B": "modul",
+      "var_C": "media aritmetica",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "206.Indicatorul reprezentand valoarea cazului de mijloc intr-un sir ierarhizat al observatiilor este:",
+      "var_A": "mediana",
+      "var_B": "modul",
+      "var_C": "media aritmetica",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "207.Daca varstele a cinci oameni sunt 16, 17, 20, 54 si 88, mediana este",
+      "var_A": "17",
+      "var_B": "54",
+      "var_C": "20",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "208.Care dintre urmatorii indicatori reprezinta un indicator mai sofisticat al dispersiei:",
+      "var_A": "media aritmetica",
+      "var_B": "mediana",
+      "var_C": "deviatia standard",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "209.Examinarea simultana a efectelor varstei, genului si clasei sociale asupra religiozitatii reprezinta un exemplu de analiza:",
+      "var_A": "univariata",
+      "var_B": "multivariata",
+      "var_C": "bivariata",
+      "var_corecta": "B"
+    },
+    {
+      "intrebare": "210.Pentru ce tipuri de variabile asociate este considerata a fi o masura adecvata de asociere corelatia Pearson(r)",
+      "var_A": "variabile de interval sau raport",
+      "var_B": "variabile nominale",
+      "var_C": "variabile ordinale",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "211.Care este forma de analiza statistica ce cauta sa identifice ecuatia pentru linia dreapta care descrie cel mai bine relatia dintre doua variabile de raport:",
+      "var_A": "regresia neliniara",
+      "var_B": "regresia partiala",
+      "var_C": "regresia liniara",
+      "var_corecta": "C"
+    },
+    {
+      "intrebare": "212.Care este forma de analiza de regresie care permite relatiilor dintre variabile sa fie exprimate prin linii geometrice curbate in locul celor drepte:",
+      "var_A": "regresia neliniara",
+      "var_B": "regresia multipla",
+      "var_C": "regresia liniara",
+      "var_corecta": "A"
+    },
+    {
+      "intrebare": "213.Ipoteza nula se refera la:",
+      "var_A": "prezumtii cu privire la independenta a doua variabile in studiul populaitiei",
+      "var_B": "presupunerea ca nu exista vreo relatie intre doua variabile in populatia totala",
+      "var_C": "distribuita comuna observata a elementelor esantionului sub aspectul celor doua variabile",
+      "var_corecta": "B"
+    }
+  ]
 }
