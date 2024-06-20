@@ -1088,9 +1088,9 @@
     {
       "intrebare": "156.Studiul de tip panel:",
       "var_A": "colecteaza date de la cohorte, in anumite momente din timp, dar membrii corhotei pot fi diferiti la fiecare set de observatii",
-      "var_B": "colecteaza date de moment cu privire la un fenomen social",
-      "var_C": "B",
-      "var_corecta": ""
+      "var_B": "colecteaza date de la acelasi esantion, in anumite momente din timp",
+      "var_C": "colecteaza date de moment cu privire la un fenomen social",
+      "var_corecta": "B"
     },
     {
       "intrebare": "157. Atunci cand un cercetator analizeaza un aspect nou sau cand insusi subiectul studiului este relativ nou, este vorba despre un studiu care are ca obiectiv principal:",
@@ -1391,7 +1391,7 @@
       "var_A": "ghid de interviu",
       "var_B": "lista de intrebari",
       "var_C": "chestionar",
-      "var_corecta": "c"
+      "var_corecta": "C"
     },
     {
       "intrebare": "200.In cazul intrebarilor inchise, respondentul este rugat sa:",
