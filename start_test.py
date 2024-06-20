@@ -155,7 +155,6 @@ class Runners(object):
             button.configure(bg="white")
 
         intrebare = self.intrebari.pop(0)
-        del self.intrebari[0]
         question = Question(intrebare['intrebare'],intrebare['var_A'],intrebare['var_B'],intrebare['var_C'],intrebare['var_corecta'])
 
         def check_answer(answer):
